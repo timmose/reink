@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: telegram-popup 1.0.0\n"
+"POT-Creation-Date: 2017-03-27 16:00+0330\n"
+"PO-Revision-Date: 2017-03-27 16:00+0330\n"
+"Last-Translator: \n"
+"Language-Team: Barfaraz\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: link-to-telegram.php:87
+msgid "Link To Telegram"
+msgstr "لینک به تلگرام"
+
+#: link-to-telegram.php:88 link-to-telegram.php:342
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: link-to-telegram.php:89 link-to-telegram.php:359
+msgid "Modal Settings"
+msgstr "تنظیمات مودال"
+
+#: link-to-telegram.php:90 link-to-telegram.php:403
+msgid "About"
+msgstr "درباره"
+
+#: link-to-telegram.php:106
+msgid "Enable"
+msgstr "فعال"
+
+#: link-to-telegram.php:114
+msgid "Channel Type"
+msgstr "نوع کانال"
+
+#: link-to-telegram.php:122
+msgid "Popup Type"
+msgstr "نوع پاپ آپ"
+
+#: link-to-telegram.php:130
+msgid "Username"
+msgstr "نام کاربری"
+
+#: link-to-telegram.php:138
+msgid "Private Link"
+msgstr "لینک اختصاصی"
+
+#: link-to-telegram.php:146
+msgid "Once for each user"
+msgstr "یک بار برای هر کاربر"
+
+#: link-to-telegram.php:154
+msgid "display only on mobile and tablet"
+msgstr "نمایش فقط در موبایل و تبلت"
+
+#: link-to-telegram.php:172
+msgid "Public"
+msgstr "عمومی"
+
+#: link-to-telegram.php:173
+msgid "Private"
+msgstr "خصوصی"
+
+#: link-to-telegram.php:182
+msgid "Direct"
+msgstr "مستقیم"
+
+#: link-to-telegram.php:183
+msgid "Modal"
+msgstr "مودال"
+
+#: link-to-telegram.php:192
+msgid "Without @"
+msgstr "بدون @"
+
+#: link-to-telegram.php:230
+msgid "Modal Skin"
+msgstr "پوسته مودال"
+
+#: link-to-telegram.php:238
+msgid "Overlay Background"
+msgstr "پشت زمینه پوشش"
+
+#: link-to-telegram.php:246
+msgid "Modal Image"
+msgstr "تصویر مودال"
+
+#: link-to-telegram.php:254
+msgid "Modal Title"
+msgstr "عنوان مودال"
+
+#: link-to-telegram.php:262
+msgid "Modal Description"
+msgstr "توضیح مودال"
+
+#: link-to-telegram.php:270
+msgid "Button Text"
+msgstr "متن دکمه"
+
+#: link-to-telegram.php:278
+msgid "Close Text"
+msgstr "متن خروج"
+
+#: link-to-telegram.php:289 link-to-telegram.php:290
+msgid "Skin"
+msgstr "پوسته"
+
+#: link-to-telegram.php:306
+msgid "Upload Image"
+msgstr "آپلود تصویر"
+
+#: link-to-telegram.php:307
+msgid "Upload an image for the modal."
+msgstr "یک عکس برای مودال آپلود نمایید."
+
+#: link-to-telegram.php:348 link-to-telegram.php:365
+msgid "Save Settings"
+msgstr "ذخیره تغییرات"
+
+#: link-to-telegram.php:349 link-to-telegram.php:366
+msgid "Reset Defaults"
+msgstr "تنظیم پیش فرض"
+
+#~ msgid "Modal Text"
+#~ msgstr "متن مودال"
+
+#~ msgid "Telegram Popup"
+#~ msgstr "پاپ آپ تلگرام"
+
+#~ msgid "Telegram"
+#~ msgstr "تلگرام"
+
+#~ msgid "Close"
+#~ msgstr "بستن"
+
+#~ msgid "About US"
+#~ msgstr "درباره ما"
+
+#~ msgid "Channel Link"
+#~ msgstr "آدرس کانال"
+
+#~ msgid "Joinchant"
+#~ msgstr "جوین چت"
+
+#~ msgid "About "
+#~ msgstr "درباره"
+
+#~ msgid "Telegram popup"
+#~ msgstr "پاپ آپ تلگرام"
