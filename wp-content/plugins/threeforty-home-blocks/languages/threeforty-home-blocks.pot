@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-03-10 11:53+0000\n"
+"PO-Revision-Date: 2020-03-10 11:54+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/customizer.php:24
+msgid "340 Media: Homepage Post Blocks"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "Customize theme settings"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid "Posts Block "
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Enable Block "
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Subtitle"
+msgstr ""
+
+#: inc/customizer.php:90
+msgid "Post Type"
+msgstr ""
+
+#: inc/customizer.php:94 inc/customizer.php:526
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/customizer.php:95 inc/customizer.php:527
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/customizer.php:96 inc/customizer.php:528
+msgid "Specific Posts (Enter post IDs below)"
+msgstr ""
+
+#: inc/customizer.php:97 inc/customizer.php:529
+msgid "Recent Products"
+msgstr ""
+
+#: inc/customizer.php:98 inc/customizer.php:530
+msgid "Specific Products (Enter product IDs below)"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "Post/Product IDs"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Enter a comma separated List of post/product IDs"
+msgstr ""
+
+#: inc/customizer.php:124 inc/customizer.php:341
+msgid "Category"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Can be used in combination with post type"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Number of posts to display"
+msgstr ""
+
+#: inc/customizer.php:153
+msgid "Number of Columns"
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Offset (number of posts to skip)"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "Exclude Post/Product IDs"
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Enter a comma separated List of post/product IDs to Exclude"
+msgstr ""
+
+#: inc/customizer.php:199
+msgid "Link to more posts"
+msgstr ""
+
+#: inc/customizer.php:201
+msgid "Link to more posts in selected category"
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "Link more text (optional)"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "If you leave this blank the title will be hyperlinked"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Post Style"
+msgstr ""
+
+#: inc/customizer.php:230 inc/customizer.php:550 inc/customizer.php:570
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:231 inc/customizer.php:571
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer.php:242
+msgid "Thumbnail Size"
+msgstr ""
+
+#: inc/customizer.php:246 inc/customizer.php:590
+msgid "Landscape"
+msgstr ""
+
+#: inc/customizer.php:247 inc/customizer.php:591
+msgid "Portrait"
+msgstr ""
+
+#: inc/customizer.php:248 inc/customizer.php:592
+msgid "Square"
+msgstr ""
+
+#: inc/customizer.php:249 inc/customizer.php:593
+msgid "Uncropped"
+msgstr ""
+
+#: inc/customizer.php:263
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer.php:276 plugin-parts/home-blocks.php:352
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer.php:289
+msgid "Entry Title"
+msgstr ""
+
+#: inc/customizer.php:302
+msgid "\"by\""
+msgstr ""
+
+#: inc/customizer.php:315
+msgid "Author"
+msgstr ""
+
+#: inc/customizer.php:328
+msgid "Author Avatar"
+msgstr ""
+
+#: inc/customizer.php:354
+msgid "Date"
+msgstr ""
+
+#: inc/customizer.php:367
+msgid "Read Time"
+msgstr ""
+
+#: inc/customizer.php:380
+msgid "Comment Count"
+msgstr ""
+
+#: inc/customizer.php:393
+msgid "Show Post Format Icons"
+msgstr ""
+
+#: inc/customizer.php:408
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:420
+msgid "Title Color"
+msgstr ""
+
+#: inc/customizer.php:432
+msgid "SubTitle Color"
+msgstr ""
+
+#: inc/customizer.php:444
+msgid "More Link Color"
+msgstr ""
+
+#: inc/customizer.php:456
+msgid "Entry Link Color"
+msgstr ""
+
+#: inc/customizer.php:468
+msgid "Entry Meta Color"
+msgstr ""
+
+#: inc/customizer.php:480
+msgid "Excerpt Color"
+msgstr ""
+
+#: inc/customizer.php:551
+msgid "Custom Post Blocks"
+msgstr ""
+
+#: plugin-parts/home-blocks.php:247 plugin-parts/post/meta-before-title.php:48
+msgid "in"
+msgstr ""
+
+#: plugin-parts/home-blocks.php:292
+msgid "Posted by"
+msgstr ""
+
+#: plugin-parts/home-blocks.php:292 plugin-parts/post/meta-before-title.php:37
+msgid "by"
+msgstr ""
+
+#: plugin-parts/home-blocks.php:449
+msgid "No products found"
+msgstr ""
+
+#: plugin-parts/post/meta-after-title.php:78
+msgid "0 Comments"
+msgstr ""
+
+#: plugin-parts/post/meta-after-title.php:78
+msgid "1 Comment"
+msgstr ""
+
+#: plugin-parts/post/meta-after-title.php:78
+msgid "% Comments"
+msgstr ""
+
+#: plugin-parts/post/meta-before-title.php:37
+#: plugin-parts/post/meta-before-title.php:47
+msgid "Posted"
+msgstr ""
