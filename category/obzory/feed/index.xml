@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Обзоры &#8212; Onino</title>
+	<atom:link href="https://timmose.github.io/reink/category/obzory/feed/" rel="self" type="application/rss+xml" />
+	<link>https://timmose.github.io/reink</link>
+	<description>Добро пожаловать</description>
+	<lastBuildDate>Wed, 29 Apr 2020 10:23:19 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Samsung вдвое сократила производство смартфонов</title>
+		<link>https://timmose.github.io/reink/samsung-vdvoe-sokratila-proizvodstvo-smartfonov/</link>
+					<comments>https://timmose.github.io/reink/samsung-vdvoe-sokratila-proizvodstvo-smartfonov/#respond</comments>
+		
+		<dc:creator><![CDATA[gigaon]]></dc:creator>
+		<pubDate>Wed, 29 Apr 2020 10:23:16 +0000</pubDate>
+				<category><![CDATA[Интервью]]></category>
+		<category><![CDATA[Интернет]]></category>
+		<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Обзоры]]></category>
+		<category><![CDATA[Статьи]]></category>
+		<category><![CDATA[Технологии]]></category>
+		<guid isPermaLink="false">https://timmose.github.io/reink/?p=2383</guid>
+
+					<description><![CDATA[Samsung вдвое сократила производство смартфонов]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://kod.ru/4226/">Samsung вдвое сократила производство смартфонов</a></p>
+<div class="pageviews-wrapper"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1792 1792"><path d="M588.277,896v692.375H280.555V896H588.277z M1049.86,630.363v958.012h-307.72V630.363H1049.86z M1511.446,203.625v1384.75h-307.725V203.625H1511.446z"/></svg><span class="pageviews-placeholder" data-key="2383"></span></div>]]></content:encoded>
+					
+					<wfw:commentRss>https://timmose.github.io/reink/samsung-vdvoe-sokratila-proizvodstvo-smartfonov/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
