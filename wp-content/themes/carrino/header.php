@@ -20,7 +20,15 @@
 <link rel="profile" href="http://gmpg.org/xfn/11">
 
 <?php wp_head(); ?>
-</head>
+</head><script async src="https://yastatic.net/pcode-native/loaders/loader.js"></script>
+<script>
+    (yaads = window.yaads || []).push({
+        id: "567778-6",
+        render: "#id-567778-6"
+    });
+</script>
+<div id="id-567778-6"></div>
+
 
 <?php $sticky_nav = ( get_theme_mod( 'carrino_sticky_nav', false ) ? ' sticky-nav' : '' ); ?>
 
