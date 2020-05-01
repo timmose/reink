@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Технологии &#8212; Onino</title>
+	<atom:link href="https://timmose.github.io/reink/category/ytiim/feed/" rel="self" type="application/rss+xml" />
+	<link>https://timmose.github.io/reink</link>
+	<description>Onino. 2020</description>
+	<lastBuildDate>Fri, 01 May 2020 13:31:42 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+
+<image>
+	<url>https://timmose.github.io/reink/wp-content/uploads/2020/05/cropped-20200501_154125_0000-1-32x32.png</url>
+	<title>Технологии &#8212; Onino</title>
+	<link>https://timmose.github.io/reink</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Павел Дуров придумал, как расплатиться с инвесторами его новой платформы TON — если компания проиграет судебную тяжбу в США. Он продаст свою долю в Telegram</title>
+		<link>https://timmose.github.io/reink/2601/</link>
+		
+		<dc:creator><![CDATA[gigaon]]></dc:creator>
+		<pubDate>Fri, 01 May 2020 13:31:40 +0000</pubDate>
+				<category><![CDATA[Интернет]]></category>
+		<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Статьи]]></category>
+		<category><![CDATA[Технологии]]></category>
+		<guid isPermaLink="false">https://timmose.github.io/reink/?p=2601</guid>
+
+					<description><![CDATA[30 апреля команда Telegram Павла Дурова должна была запустить свою блокчейн-платформу для криптовалюты Gram, однако этому препятствует судебная тяжба компании с Комиссией по ценным бумагам и биржам США. В «день икс» Telegram предложил инвесторам выбор: вернуть 72%...]]></description>
+										<content:encoded><![CDATA[
+<p>30 апреля команда Telegram Павла Дурова должна была запустить свою блокчейн-платформу для криптовалюты Gram, однако этому препятствует судебная тяжба компании с Комиссией по ценным бумагам и биржам США. В «день икс» Telegram предложил инвесторам выбор: вернуть 72% средств сейчас, либо подождать еще год и получить Gram (в случае победы в суде) или 110% средств (в случае проигрыша). Для выплат инвесторам в случае поражения в суде Дуров продаст свои акции компаний, владеющих мессенджером Telegram.</p>
+
+
+
+<p>Инвесторы блокчейн-платформы Telegram Open Network (TON) получили письмо от&nbsp;команды Telegram Павла Дурова, в&nbsp;котором им&nbsp;предлагают несколько вариантов возврата инвестиций в&nbsp;связи с&nbsp;истечением дедлайна по&nbsp;запуску проекта. Об&nbsp;этом&nbsp;<a href="https://thebell.io/durov-poobeshhal-investoram-ton-rasplatitsya-aktsiyami-telegram-v-sluchae-proigrysha-v-sude" target="_blank" rel="noreferrer noopener">сообщает</a>&nbsp;The Bell со&nbsp;ссылкой на&nbsp;копию письма. Один из&nbsp;инвесторов подтвердил «Медузе» факт его получения.</p>
+
+
+
+<p>В&nbsp;письме инвесторам предлагают забрать 72% от&nbsp;своих первоначальных вложений в&nbsp;TON или подписать договор займа до&nbsp;30&nbsp;апреля 2021 года, по&nbsp;которому они смогут получить 110% от&nbsp;своих инвестиций, даже если проект так и&nbsp;не&nbsp;будет запущен.</p>
+
+
+
+<p>Вернуть деньги инвесторам в случае проигрыша в американском суде Telegram собирается за счет собственных акций, которые сейчас принадлежат основателю мессенджера Павлу Дурову. При этом есть несколько компаний, зарегистрированных Дуровым для работы Telegram, о продаже акций какой из них идет речь — неизвестно. «Стоимость Telegram превысит объем образующегося долга перед инвесторами как минимум в несколько раз», — цитирует письмо The Bell. В конце 2017-го Дуров <a rel="noreferrer noopener" href="https://www.bloomberg.com/news/articles/2017-12-12/cryptic-russian-crusader-says-his-5-billion-app-can-t-be-bought" target="_blank">рассказывал</a> в интервью Bloomberg, что ему несколько раз предлагали продать Telegram по цене от трех до пяти миллиардов долларов.</p>
+
+
+
+<p>Инвесторы могут выбрать один из предложенных вариантов до 3 мая. Часть из них наверняка заберет деньги сейчас, так как уже не верит в успешный исход дела и перспективы самой криптовалюты, говорит собеседник «Медузы» из числа инвесторов TON. «Думаю, с учетом возросшего курса доллара в сравнении с 2018 годом и довольно упаднических настроений относительно возврата инвестиций, даже 72% от первоначальных вложений устроят многих», — полагает он.</p>
+
+
+
+<h3>Как все начиналось</h3>
+
+
+
+<p>Впервые о блокчейн-платформе и криптовалюте, разрабатываемых командой Telegram Павла Дурова, стало известно в конце 2017 года — тогда в интернете появилась первая презентация проекта. Следом за ней в сети стал циркулировать 132-страничный white paper с подробным техническим описанием, под которым стояла подпись сооснователя Telegram Николая Дурова — брата Павла Дурова. Издание Techcrunch емко <a rel="noreferrer noopener" href="https://techcrunch.com/2018/01/15/inside-telegrams-ambitious-1-2b-ico-to-create-the-next-ethereum/" target="_blank">называло</a> этот проект «амбициями запустить децентрализованный интернет».</p>
+
+
+
+<p>В&nbsp;white paper говорилось, что ключевой недостаток существующих платежных систем на&nbsp;блокчейне&nbsp;— таких как Bitcoin или Ethereum&nbsp;— низкая скорость проведения транзакций в&nbsp;сравнении со&nbsp;скоростью работы традиционных Visa или MasterCard. Дуровы обещали, что TON сможет подтверждать миллионы транзакций в&nbsp;секунду, в&nbsp;то&nbsp;время как Visa и&nbsp;Mastercard,&nbsp;<a href="https://www.rbc.ru/technology_and_media/16/01/2018/5a5ca6859a7947bb3da78d98" target="_blank" rel="noreferrer noopener">по&nbsp;оценкам экспертов</a>, могут обрабатывать до&nbsp;40 тысяч транзакций в&nbsp;секунду, а&nbsp;Bitcoin и&nbsp;другие криптовалюты&nbsp;— около 10 транзакций в&nbsp;секунду.</p>
+
+
+
+<p>Достичь высокой скорости проведения транзакций в&nbsp;TON планировалось за&nbsp;счет создания многоуровневого блокчейна. В&nbsp;традиционных децентрализованных системах, которые, в&nbsp;частности, лежат в&nbsp;основе Bitcoin и&nbsp;Ethereum, каждая следующая транзакция хранит в&nbsp;себе информацию о&nbsp;предыдущих, то&nbsp;есть они связаны между собой, как звенья цепи. Такое звено называется блоком, и&nbsp;удалить или изменить какой-то блок в&nbsp;децентрализованной системе невозможно&nbsp;— это разрушит всю сеть. В&nbsp;TON, по&nbsp;задумке Дуровых, каждый блок&nbsp;— это еще один блокчейн, и&nbsp;весь массив операций, которые нужно обрабатывать системе, будет поделен между этими более мелкими блокчейнами.</p>
+
+
+
+<p>Предполагалось, что возможность проводить платежные операции с&nbsp;криптовалютой Gram сначала появится в&nbsp;мессенджере Telegram, аудитория которого составляет 400 миллионов пользователей в&nbsp;день, а&nbsp;затем будет интегрирована и&nbsp;в&nbsp;другие соцсети и&nbsp;мессенджеры, о&nbsp;партнерствах с&nbsp;которыми договорится команда проекта.</p>
+
+
+
+<p>Для финансирования разработки TON в&nbsp;начале 2018 года было проведено два закрытых раунда&nbsp;ICO, в&nbsp;ходе которых команда собрала 1,7 миллиарда долларов.НА ЧТО РАССЧИТЫВАЛ ИНВЕСТОР</p>
+
+
+
+<p>Среди российских бизнесменов в&nbsp;TON&nbsp;<a href="https://www.coindesk.com/telegram-ico-roman-abramovich-wirecard-coo-mikhail-abyzov" target="_blank" rel="noreferrer noopener">вложились</a>&nbsp;Роман Абрамович, экс-министр по&nbsp;делам открытого правительства Михаил Абызов, основной владелец группы «Сафмар» Михаил Гуцериев, основатель компании «Вимм-Билль-Данн» Давид Якобашвили, основатель Qiwi Сергей Солонин и&nbsp;другие. Всего в&nbsp;двух инвестраундах TON поучаствовали 175 бизнес-структур и&nbsp;частных инвесторов из&nbsp;разных стран, причем 39 из&nbsp;них были из&nbsp;США.</p>
+
+
+
+<h3>Форс-мажор</h3>
+
+
+
+<p>На&nbsp;протяжении полутора лет после проведения ICO команда Telegram работала над своим блокчейном и&nbsp;изредка отчитывалась перед инвесторами о&nbsp;ходе реализации проекта. Так, в&nbsp;апреле 2019 года было запущено закрытое тестирование TON среди ограниченного числа независимых команд, а&nbsp;в&nbsp;сентябре 2019-го&nbsp;<a href="https://www.vedomosti.ru/technology/news/2019/09/09/810812-telegram" target="_blank" rel="noreferrer noopener">началось</a>&nbsp;его публичное тестирование.&nbsp;</p>
+
+
+
+<p>Ход событий изменил иск от&nbsp;Комиссии по&nbsp;ценным бумагам и&nbsp;биржам США (SEC), которая 11&nbsp;октября обратилась в&nbsp;суд Южного округа Нью-Йорка с&nbsp;обвинениями Telegram Group Inc. и&nbsp;TON Issuer Inc. в&nbsp;торговле ценными бумагами в&nbsp;нарушение законодательства США. «Наши чрезвычайные действия направлены на&nbsp;то, чтобы помешать Telegram наводнить рынки США цифровыми токенами, которые, как мы&nbsp;утверждаем, были проданы незаконно»,&nbsp;— заявляла сопредседатель отдела правоприменения SEC Стефани Авакян.</p>
+
+
+
+<p>Из&nbsp;иска следует, что SEC считает Gram ценными бумагами, а&nbsp;значит, перед тем как проводить ICO и&nbsp;заключать с&nbsp;инвесторами соглашения о&nbsp;покупке Gram, Telegram Group Inc. и&nbsp;TON Issuer Inc. должны были предоставить покупателям информацию о&nbsp;финансовой истории компании, ее&nbsp;способности генерировать прибыль и&nbsp;подать заявление в&nbsp;SEC о&nbsp;регистрации размещения ценных бумаг. Регулятор также обратил внимание на&nbsp;то, что купленные инвесторами Gram не&nbsp;зарегистрированы ни&nbsp;в&nbsp;одной юрисдикции.</p>
+
+
+
+<p>«Другими словами, ответчик планирует продать миллиарды ценных бумаг, которые затем быстро начнут переходить из&nbsp;рук в&nbsp;руки среди инвесторов в&nbsp;США, не&nbsp;предоставляя этим инвесторам важной информации о&nbsp;бизнесе, финансовом состоянии, факторах риска и&nbsp;менеджменте»,&nbsp;— сказано в&nbsp;документе.&nbsp;</p>
+
+
+
+<p>Команда Telegram сообщала, что не&nbsp;согласна с&nbsp;юридической позицией комиссии. «Gram еще не&nbsp;существует, но&nbsp;если когда-нибудь он&nbsp;появится, то&nbsp;будет представлять собой валюту и/или товар, а&nbsp;не&nbsp;ценные бумаги, в&nbsp;соответствии с&nbsp;законом»,&nbsp;— говорилось в&nbsp;заявлении Telegram, направленном в&nbsp;суд.</p>
+
+
+
+<p>Однако из-за суда компания была вынуждена перенести дату запуска TON с&nbsp;30&nbsp;октября 2019-го на&nbsp;30&nbsp;апреля 2020-го. Инвесторам, которые не&nbsp;готовы ждать, Дуров еще тогда предложил вернуть 77% от&nbsp;их&nbsp;вложений, однако они&nbsp;<a href="https://www.rbc.ru/technology_and_media/24/10/2019/5db09e719a79476c6709259c" target="_blank" rel="noreferrer noopener">не&nbsp;стали</a>&nbsp;требовать деньги назад и&nbsp;согласились на&nbsp;отсрочку.</p>
+
+
+
+<p>Судебное разбирательство между SEC и&nbsp;Telegram в&nbsp;последние полгода шло довольно активно. SEC требовал от&nbsp;Telegram раскрыть данные о&nbsp;своих банковских операциях и&nbsp;расходах средств, полученных от&nbsp;инвесторов. Однако компания отказывалась предоставлять эту информацию, а&nbsp;Дуров, которого допрашивали на&nbsp;протяжении двух дней, на&nbsp;эти вопросы не&nbsp;отвечал. В&nbsp;итоге раскрыть данные о&nbsp;банковских операциях Telegram обязал&nbsp;суд. Кроме того, в&nbsp;материалах суда появились отрывки из&nbsp;рабочей переписки сотрудников Telegram, в&nbsp;которой Gram действительно называли ценной бумагой. Представители Telegram продолжали утверждать обратное.</p>
+
+
+
+<p>В&nbsp;итоге 24&nbsp;марта суд вынес временный запрет на&nbsp;выпуск токенов Gram и&nbsp;их&nbsp;передачу инвесторам проекта. Ссылаясь на&nbsp;данные&nbsp;«теста Хауи», суд постановил, что контракты на&nbsp;токены от&nbsp;Telegram подходят под определение ценных бумаг. При этом суд разъяснил, что запрет касается выпуска токенов не&nbsp;только в&nbsp;отношении американских инвесторов, но&nbsp;и&nbsp;участников проекта из&nbsp;других юрисдикций.</p>
+
+
+
+<p>Но Павел Дуров нашел что предложить инвесторам, чтобы убедить их подождать еще. Собеседник «Медузы», инвестировавший в TON, считает ход Дурова «смелым»: «Хочется его поддержать, он все-таки ставит на кон свой главный проект — это хороший ход».</p>
+<div class="pageviews-wrapper"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1792 1792"><path d="M588.277,896v692.375H280.555V896H588.277z M1049.86,630.363v958.012h-307.72V630.363H1049.86z M1511.446,203.625v1384.75h-307.725V203.625H1511.446z"/></svg><span class="pageviews-placeholder" data-key="2601"></span></div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Создатели часов Amazfit и браслета Mi Band представили маску Aeri с фильтрами N95, встроенным УФ-излучателем и возможностью установки вентилятора</title>
+		<link>https://timmose.github.io/reink/2594/</link>
+		
+		<dc:creator><![CDATA[gigaon]]></dc:creator>
+		<pubDate>Fri, 01 May 2020 13:26:36 +0000</pubDate>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Обзоры]]></category>
+		<category><![CDATA[Технологии]]></category>
+		<guid isPermaLink="false">https://timmose.github.io/reink/?p=2594</guid>
+
+					<description><![CDATA[Проект Aeri пока далёк от коммерческого релиза Компания Huami, известная своими умными часами Amazfit и трекерами активности Mi Band, созданными для Xiaomi, решила взяться на новый для себя тип продуктов...]]></description>
+										<content:encoded><![CDATA[
+<h4>Проект Aeri пока далёк от коммерческого релиза</h4>
+
+
+
+<p>Компания Huami, известная своими умными часами Amazfit и трекерами активности Mi Band, созданными для Xiaomi, решила взяться на новый для себя тип продуктов — маски. Да, сейчас это актуальное направление, и останется оно таковым ещё достаточно долго. А учитывая тот факт, что в Китае и задолго до пандемии COVID-19 маски использовали очень активно, маски — вполне разумный бизнес даже для технологической компании.</p>
+
+
+
+<div class="wp-block-group alignwide"><div class="wp-block-group__inner-container">
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://timmose.github.io/reink/wp-content/uploads/2020/05/aeri_amazfit_huami_202004_-prototype-12_large-1.jpg" alt="" data-id="2596" data-full-url="https://timmose.github.io/reink/wp-content/uploads/2020/05/aeri_amazfit_huami_202004_-prototype-12_large-1.jpg" data-link="https://timmose.github.io/reink/?attachment_id=2596" class="wp-image-2596" srcset="https://timmose.github.io/reink/wp-content/uploads/2020/05/aeri_amazfit_huami_202004_-prototype-12_large-1.jpg 387w, https://timmose.github.io/reink/wp-content/uploads/2020/05/aeri_amazfit_huami_202004_-prototype-12_large-1-300x168.jpg 300w" sizes="(max-width: 387px) 100vw, 387px" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://timmose.github.io/reink/wp-content/uploads/2020/05/aeri_amazfit_huami_202004_-prototype-31_large.jpg" alt="" data-id="2597" data-full-url="https://timmose.github.io/reink/wp-content/uploads/2020/05/aeri_amazfit_huami_202004_-prototype-31_large.jpg" data-link="https://timmose.github.io/reink/?attachment_id=2597" class="wp-image-2597" srcset="https://timmose.github.io/reink/wp-content/uploads/2020/05/aeri_amazfit_huami_202004_-prototype-31_large.jpg 387w, https://timmose.github.io/reink/wp-content/uploads/2020/05/aeri_amazfit_huami_202004_-prototype-31_large-300x168.jpg 300w" sizes="(max-width: 387px) 100vw, 387px" /></figure></li></ul></figure>
+</div></div>
+
+
+
+<p>Сейчас проект находится на начальном этапе. Сам проект называется Aeri, а реализовывается он в рамках инициативы Project uSmile. Основная идея проекта — создать не просто маску, а маску, которая не будет мешать людям выражать эмоции.</p>
+
+
+
+<p>Как можно видеть на изображениях, для этого маска в основе своей будет прозрачной, а фильтры располагаются по бокам. К тому же такое решение, вероятно, позволит нормально работать функциям распознавания лиц в смартфонах.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://timmose.github.io/reink/wp-content/uploads/2020/05/aeri_amazfit_huami_202004_-prototype-33_large.jpg" alt="" class="wp-image-2598" srcset="https://timmose.github.io/reink/wp-content/uploads/2020/05/aeri_amazfit_huami_202004_-prototype-33_large.jpg 780w, https://timmose.github.io/reink/wp-content/uploads/2020/05/aeri_amazfit_huami_202004_-prototype-33_large-300x168.jpg 300w, https://timmose.github.io/reink/wp-content/uploads/2020/05/aeri_amazfit_huami_202004_-prototype-33_large-768x431.jpg 768w" sizes="(max-width: 780px) 100vw, 780px" /></figure>
+
+
+
+<p>Ещё одна любопытная особенность маски — модульность. Кроме фильтров пользователи смогут установить в маску вентилятор и блок AQI с сенсорами, определяющими качество воздуха, уровень влажности и так далее. А ещё у маски имеется встроенный ультрафиолетовый излучатель для самодезинфекции, который активируется, когда маска не используется и… подключена к источнику питания. Да, маску тоже придётся заряжать. Всего Huami намерена выпустить две модификации своей маски: Aeri X и Aeri Y. Отличаются они, судя по всему, исключительно дизайном.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://timmose.github.io/reink/wp-content/uploads/2020/05/aeri_amazfit_huami_202004_-prototype-19_large.jpg" alt="" class="wp-image-2599" srcset="https://timmose.github.io/reink/wp-content/uploads/2020/05/aeri_amazfit_huami_202004_-prototype-19_large.jpg 780w, https://timmose.github.io/reink/wp-content/uploads/2020/05/aeri_amazfit_huami_202004_-prototype-19_large-300x168.jpg 300w, https://timmose.github.io/reink/wp-content/uploads/2020/05/aeri_amazfit_huami_202004_-prototype-19_large-768x431.jpg 768w" sizes="(max-width: 780px) 100vw, 780px" /></figure>
+
+
+
+<p>Что касается используемых фильтров, это&nbsp;N95 — класс фильтров, примерно соответствующий по уровню&nbsp;FFP2.</p>
+
+
+
+<p>К сожалению, о коммерческих перспективах проекта Huami ничего не говорит. Скорее всего, в ближайшие месяцы таких масок ожидать не стоит.</p>
+<div class="pageviews-wrapper"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1792 1792"><path d="M588.277,896v692.375H280.555V896H588.277z M1049.86,630.363v958.012h-307.72V630.363H1049.86z M1511.446,203.625v1384.75h-307.725V203.625H1511.446z"/></svg><span class="pageviews-placeholder" data-key="2594"></span></div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>MIUI 12 уже могут опробовать все владельцы Xiaomi и Redmi</title>
+		<link>https://timmose.github.io/reink/2589/</link>
+		
+		<dc:creator><![CDATA[gigaon]]></dc:creator>
+		<pubDate>Fri, 01 May 2020 13:13:53 +0000</pubDate>
+				<category><![CDATA[Новости]]></category>
+		<category><![CDATA[Технологии]]></category>
+		<guid isPermaLink="false">https://timmose.github.io/reink/?p=2589</guid>
+
+					<description><![CDATA[Прямые ссылки для 30 моделей смартфонов Наши коллеги с сайта XDA-Developers опубликовали ссылки на бета-версии новейшей прошивки MIUI 12 на базе операционной системы Android 10 или Android 9 (в зависимости...]]></description>
+										<content:encoded><![CDATA[
+<h4>Прямые ссылки для 30 моделей смартфонов</h4>
+
+
+
+<p>Наши коллеги с сайта XDA-Developers опубликовали ссылки на бета-версии новейшей прошивки MIUI 12 на базе операционной системы Android 10 или Android 9 (в зависимости от модели) для смартфонов Xiaomi и Redmi.</p>
+
+
+
+<p>Стоит отметить, что эти прошивки предназначены для китайских смартфонов, а это означает, что устанавливать прошивку нужно через TWRP.&nbsp;<a href="https://www.ixbt.com/news/2020/04/22/garantija-na-smartfony-xiaomi-i-redmi-s-razblokirovannymi-zagruzchikami-sohranjaetsja-ne-vo-vseh-sluchajah.html">Процесс разблокировки загрузчика не аннулирует гарантию</a>, что недавно подтвердила Xiaomi.</p>
+
+
+
+<p>Еще один факт, который следует учитывать, — это то, что в этой сборке нет сервисов Google и магазина приложений Google Play. В списке языков всего два варианта: английский и китайский. Эта бета-версия предназначена исключительно для тех, кому не терпится ознакомиться с новой прошивкой и, например, увидеть <a href="https://www.ixbt.com/news/2020/04/28/miui-ios-super-wallpaper.html">функцию Super Wallpaper</a>.</p>
+
+
+
+<p>Установить бета-версию MIUI 12 можно на эти смартфоны:</p>
+
+
+
+<ul><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f67765859fe4bff11dd95719da1064b36e01625ac2f95907dacbc7527e878c1099a28c998616897b83d0ef10d90dd9fe1e70242caa2eb613f25ed7dab8d630826218cbd980a7780042062e23a1c3ecc8024caed79e1818b9d6af1cac7ca671df590a6ee1fb36cac7c&amp;h=e7953434645acbd4a2c95fc42edf3b51e0bd6ff8">Mi 9</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f0da760a6a16dac62aaf33193bfa17fbdd4335c0e17fdf7623a7ae0d5eaebdfc869a26da85e3620860ed40e4778b7a6b1b626011ced9cd63160ae20d8a2e0b72ee6e736a6c5d1bf253a227c4e1fcab06cf9fade1e4f931c72d75dc5ac4836c961c4373988af863ec7&amp;h=7603ad7736b2d73bc0aa008debdc61756d692df1">Mi 9 SE</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5fd960c650aa9d475c5151be333f9eab6d79995dfab7bbe3435eab3cd94a5af94ad1154815803f922032129e024129ea2c4f77bc19a8ef9962d1393a0ff71986294677005066a20664303962f220c95880154ce78298c427bf12b346f0f108ce5690007c43d719003d&amp;h=763715d5ef78f16a6d9a74a935d1a1373c7b0ff4">Mi 9 Lite</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f8002e22f30135b622a7bf08c00edd5bb4aa42b936c7168f7514a5dd13730720cf34d8ae0819f178fc7b2556bc7e7a9ea0a23c157a99397d27fba2d76c7c5b8ce56505af6d455f859e4201be4facdaf6e896acfb90b1cfb578f7fd16246f1b19ab90213a3d41d5d2f&amp;h=f9f95126d84eae65d7f30d0ee8e95c1192e68e9a">Mi 9 Pro</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f2ad7541c273b01e41390dc4d5e19e8d743fcfb6bb27c8e4d5b5bbcaa5e3943b60b1c2287810e24639a8830fd695bf6a2e000ab3ed121a76b33d2eb3766c662e5659daff61f644d8e1b80e2212767ca60f6dadd379012f7efd0c0cc2b15211cc5d17589ab55ad4f05&amp;h=e938a6e719db85ac40604ad2e5f0f63549a44fe9">Mi Mix 2</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5fecdfeb226a5dda9e4de074de49fa792ab82d13782f7dabe98081be722570847e53c604ed446e0e1054852ecae05fd855c8aa57254ebeff5d9632bcf66acbcd7f7ab3ddf4db0fa0119f4df3d48a4d4d05c23f0efba0888cbe9011e0095fbdda2624129091b6bd1a5b&amp;h=85e9ab83ab3f4c26288529d290efd976d85a131f">Mi Mix 2S</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f0a83a578fd3dd2d1958a068d8d740ca8cb21ff88f6389f9368b24bb50c92408b8cf096679b8cf79666719684eefd6d2c6972dca733f7aaec19fcc969689d6bbc9aa12125549a82224277ad4e4fd08162cad59fc434a2367981b961f70a26dc7df5292e6631c47969&amp;h=05fc4e075f8759d64627bcbf3cd08b07b91ea38d">Mi Mix 3</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f299afa390e4b7f250fcba693a65654724e1110e0842eae2a45bab232d2c09bed9885762abbd7916288b782ade6ffe94ded053cc9a1d5e5e6e6f42d066ee343e024ceed893ae31f1b398e87305d1bf624be33e140c90addb25478ef2b8643d36ec9875bc88732cbcd&amp;h=070c18725ed2aa5508a35dc3024689cd88eb5289">Mi 10</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5fee7a5d2cd2c308bbcff6cbe546a4e00a884c3d8307f18a58968f37b3d1df5dd9d01de31d2fc45e45f30dbca661ec816393d6efc428eb0ba41fdbbb067018717c8154dc1271a1fa2bf9f1d4f525940cfd6227889e07b4c5ab93ec0f0d340562f1bcc83d22050bf65c&amp;h=146e8ea8229f5e99b13a5c09a336ffa454da3e73">Mi 10 Pro</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f5785ee0ba784df84447275435829c366168edcc95b524d1ce10919d8f22dc713108737f33d1f018c5875e1e7d54ba1e2c41b36eee575a6a5a0bacf90aed8008ee9840f477625f488ec0176de03e6910838f6fcff9141799f1e64cdf23ff78e37e2beb0746a36600d&amp;h=0f2360951e26dfd36a8339c3e1ef7a5a22fd0ab3">Mi&nbsp;8</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5fb44a59543e85c8c95b2e429bc178b2b9023e3db1388ea50e4c642740b7fea110c893875cf26be7481722a8fc22e35358597f9100370070808fecff520737a8ae0c767aebe7d0832cd9f6fce96031f4cac03ceb9ca9607ae54d87e66c7610e11ffc57973a5b2a7b23&amp;h=18167b8458fbc7656a11321b64fc7d4a6faa4ce0">Mi 8 SE</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5fcb732689bc84ca0bc543ac8a32b5510efff719eb5f8cd939161607dc0dbb67e9078f13892256236b33bc7715a26a040204e9bdf39bafbd94e71b2e5d048557d9dcf483d69ff2b81858822494db570134961984831005cd3ff1a531f985c89e53a9df473189cd7858&amp;h=a409738308507332c78154bdea4eec761b070e27">Mi 8 Lite</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f03bfaaf1a5c63648aeb25e878d845358a91755fbf80e62b5ec31d1fe14f0a2747158b08f8ca2b79908b023abefb987d38008ccb72f55ef11ccab83ff5a3bb87dbe2f1417052a072ac23c215048a157967a4632edb64d8f29b7709842ad5eaebae97dd1511d93abcb&amp;h=650e3ca31165549d305c74437089764f51b54385">Mi 8 Pro</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f2686ef26655be9c19056f1619aea9047af848aa0805e5819124e2c5b6fc274d4e35dbecb15ebf68600460a273e14c8c19e45af824330476443bdf8913a9a4cedce45045742ee36b7378b4c8d16a2e8dad4099fff3f5649618f55fa4f6b77b5f9b0927a29cf8c3431&amp;h=4efa99af98edd637cb45b2e6e6f57bd63cd1f888">Mi Note 3</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f80f89b4bec12cdd7a4e8b4a72ad33f6eb10f00d5476afb6b1c57ac4c0df871ddc99099e346633b6d8d46b29985c63cfbe18ca14c89a1a2ad00e20b36955a77ba7e928be90e8fbbceef1587138c85de408a43d16708d448d3391c7202e61da875b903382bf07d1963&amp;h=cd0e5495a23de73b6afe0334d825432491293db5">Mi Max 3</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5fd83c4606e63fd529d1f8d02149a665a5682dd41e42afa60f543521ce4d1ade16025bd39e9d0b535035da52ccb7d4b4fdc2efa8e09fddd983aa33d70fe98bb2bf737491090035ed43815683100b033ac4595b6e91ab343523ea57c0cac4dd1d2c8a08cbbff67f1990&amp;h=ec0f32a64890ab84833363b873294a594bbe469b">Mi 6</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f7a6cd8d9646a81c9f3e87b963d9befaf1e86f3daf8fbdf57296c9beadd31e065a1c134305b90fa7f4d0c443a56e713b7f5724f2752c983e5f7d3ec7b3aac041da17b58dd30988c1bf2062d9bd6a4ef1079f37577ff2ea11a9b6ae95078bb966a572c157bbaf5cef5&amp;h=c80ec7f003caec4cbd2a3b79a617cd163cff53a3">Mi 6X</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f978b200ae70a1e9394c8aff8634ef92ac57e73ff53fb34f55633826550bdb5c4656a4ae294139e8b6a44ce4199862ec25e7e013871f1305ac7d0552de35331714980067b6a437296089043e86de968e61d8eea848a34fc8f9ed3e4af03c8d9b313aa8985270bc3ba&amp;h=5ddbfc5002ae41388a125c40390df2f501034f75">Mi Note 10</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5fef28dd6ec7a8f469a7f912f7ef79d374fc10098c873e1e4ecb49261a522077befc89fe9b13c89a75a11cfb3aa83a49f1db335f87c01df91bd4874297d5bc9be234a7235642e8287cb8faecff0aa67ff822f6be7bc77919b20fab40e72a390e987587166a85b68a906db56819da63131a4d6158ec9746980c&amp;h=979980860e9b4c621d2977e122352248cfa3e596">Mi 8 Explorer Edition</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f95297bcb7757a8809044be982219edfbba059192125e3133b9042799e3e14d2a5bf2bdaed4370b8bac41f81163b49f22c695f62e53b72668db2ddc19ea96dd05da894ed5a468db15865bf1ceb3fa910e0b29b13a56f99a7497192f09db17987ead4cafaa5a4cb18c&amp;h=bce1ae0b544c54b4587a19eb0467badcfb6500b4">Mi CC9 Meitu Edition</a></li></ul>
+
+
+
+<ul><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f83f59c11a52513d6b74cf8c241c58dd50ea1e9e625f700caba2b78cc782881288391a4bb9b4b67556029bfffcf8a8cbd39b34b1464988661ae91dd904c3ce28d51aee9e196195d31c000ef45035581400310d3cc193291b4f32f44435ef4c9fb208723a8f3ad31f2&amp;h=3331137e3a7a5434e955e946ea8c5b503e21867d">Redmi Note 8 Pro</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5feb14d9befd6d3be9a9c47b3b7930b1328e32ad4b3f0cc865f7f816ab118ec9b05c01a1c8839d1d5e7ca65c7e1a782074604778e2f965cbdf629212c6d7c18ee3703acde8cbdb6f7e5f66fe2bebc09ccde26e5315451134eef7056b891a5eef26891453acdd9c765f&amp;h=cf28416b47038b410ef8188f118b2b4e62ee0444">Redmi K20 / Mi 9T</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5fe451f8f286542718f0ea52bc10ec60d1e6192b0c5feeced07d4250d87b0d759fa06068151eb5e443576eed437bd04bbafb7671c2bb0f6150da46812a4dea35314bd13ce65f4578110b4f2ce32e5331b558ed01d903c7a9e45a01f9f46930e5f33b1beb3eab4cc988&amp;h=703f355e423aabf5e3e35d3353d22fb36923d8f4">Redmi K20 Pro / Mi 9T Pro</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f8ea4415432d77de8832fc0fbdf9a38151264d60bda8ff10397ec11a350d40f8cd30566852da6fd94ece3453e3e7c2102f1766894b623c1228ccbd4809c7d4d988a20e39482bca82395b2742fc8e59447d7899bf365ae8a2d2168c68c13ee601ea8258b5ba798adf2&amp;h=ec7e29cbcb95326ae1dc4059f75dca2dce9561e2">Redmi Note 7 / 7S</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5feb9b9e610ce45a49cf97064150460b326def1954b4fe7751b92f4dd2e86347cfb51f06fc23ab66d7cb744822d0d368e9f6fe599159b54981738fa9b8eed83d3d620f9afac88b61fba8fdaf553bb08ffc5ba32f44958135d7bb029cf708432d6d50bfa21652aa1b42&amp;h=11b5a15674a58a513740456ad935f11fb9656e06">Redmi K30 5G</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f5f742f822458dc7232b35a546148c1186a1e23cfb3643eb17df1258c80abc48d127a39729086160c3f1ed7f245b9f46ec249af23c72dbef374f1f1db07b7fee9a83bdd456a8a690acb4ba0ad9441c4ea62953aae21832afe1fbab829aecbc11c2cd6c5996de51f38&amp;h=06f35aea64a199f963f632cc355e2f685530c916">Redmi K30 4G / Poco X2</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f0902ceabc97d6574d3ecc8f1112a002e09c9c1e8746f76348c74d499a1c58abf2904b1f4ce83a78a0e991583bfaac53288e2279f480ceadefe394d0c564f7684c8fe4eade53c438f60fceece11829ca37a8ae8ff2cb9875921fa9b7e6d5175fa4be634dfccb45e63&amp;h=686d9907d828ae113114f27ed2b7e7d625224527">Redmi Note 7 Pro</a></li><li><a href="https://www.ixbt.com/click/?c=53616c7465645f5f44599ce13f6a0fc4412955c1c63974ea06bf9d6605a7fb186ee90e3e6a23be451da670327b69ca2a29f83afb5379fd5512b6c7848eb21cafbc739a498d6deac56440a8f45b8d493bb2847775f6a1ff33d55cfcca319c520e425848badfe012c485647b1888a93069&amp;h=568495b109a5c58b065fd5ddc00314f66cbb084f">Redmi Note 5 AI / Redmi Note 5 Pro (Whyred)</a></li></ul>
+<div class="pageviews-wrapper"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1792 1792"><path d="M588.277,896v692.375H280.555V896H588.277z M1049.86,630.363v958.012h-307.72V630.363H1049.86z M1511.446,203.625v1384.75h-307.725V203.625H1511.446z"/></svg><span class="pageviews-placeholder" data-key="2589"></span></div>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Для борьбы с Qualcomm компания MediaTek готовит новые платформы. Хотя ещё не успела выпустить все «старые»</title>
+		<link>https://timmose.github.io/reink/2585/</link>
+		
+		<dc:creator><![CDATA[gigaon]]></dc:creator>
+		<pubDate>Fri, 01 May 2020 13:11:16 +0000</pubDate>
+				<category><![CDATA[Технологии]]></category>
+		<guid isPermaLink="false">https://timmose.github.io/reink/?p=2585</guid>
+
+					<description><![CDATA[Нас ждёт минимум три новинки В конце прошлого года компания MediaTek представила однокристальную систему Dimensity 1000, которая может похвастаться и техпроцессом 7 нм, и модемом 5G, и процессорными ядрами Cortex-A77....]]></description>
+										<content:encoded><![CDATA[
+<h4>Нас ждёт минимум три новинки</h4>
+
+
+
+<p>В конце прошлого года компания MediaTek представила однокристальную систему Dimensity 1000, которая может похвастаться и техпроцессом 7 нм, и модемом 5G, и процессорными ядрами Cortex-A77. При этом, судя по утечкам, в AnTuTu эта SoC не уступает некоторым аппаратам на Snapdragon 865.</p>
+
+
+
+<p>К сожалению, пока на рынок так и не вышла ни одна модель с этой SoC. Есть аппараты с Dimensity 1000L, но это совершенно другое решение с другой производительностью. Также компания не так давно анонсировала SoC Dimensity 800.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://timmose.github.io/reink/wp-content/uploads/2020/05/dimensity_678x452.jpg" alt="" class="wp-image-2586" srcset="https://timmose.github.io/reink/wp-content/uploads/2020/05/dimensity_678x452.jpg 678w, https://timmose.github.io/reink/wp-content/uploads/2020/05/dimensity_678x452-300x225.jpg 300w" sizes="(max-width: 678px) 100vw, 678px" /></figure>
+
+
+
+<p>Как сообщается, уже 7 мая MediaTek намерена расширить линейку Dimensity как минимум двумя платформами. Первой будет Dimensity 1000 с повышенными частотами, второй — Dimensity 800 с повышенными частотами. Не очень понятно, зачем выпускать такие решения, если основные ещё не вышли, но, возможно, основные и вовсе не выйдут — MediaTek сразу выпустит ускоренные модификации.</p>
+
+
+
+<p>Также компания готовит бюджетную SoC MT6853, которая в линейку Dimensity не войдёт. О ней нет подробностей, но, вероятно, она придёт на смену старой MT6753.</p>
+
+
+
+<p>Самое интересное — MediaTek уже работает над Dimensity 2000, но пока неясно, когда она выйдет. Учитывая, что текущая топовая SoC все ещё недоступна спустя полгода после анонса, возможно, Dimensity 2000 нас ждёт уже в следующем году.</p>
+<div class="pageviews-wrapper"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1792 1792"><path d="M588.277,896v692.375H280.555V896H588.277z M1049.86,630.363v958.012h-307.72V630.363H1049.86z M1511.446,203.625v1384.75h-307.725V203.625H1511.446z"/></svg><span class="pageviews-placeholder" data-key="2585"></span></div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
