@@ -29,7 +29,6 @@
 </script>
 <div id="id-567778-6"></div>
 
-
 <?php $sticky_nav = ( get_theme_mod( 'carrino_sticky_nav', false ) ? ' sticky-nav' : '' ); ?>
 
 <body <?php body_class(); ?>>
