@@ -1,1 +1,0 @@
-var AlobaidiDetectAdBlock = true;
