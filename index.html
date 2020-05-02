@@ -43,6 +43,8 @@ img.emoji {
 }
 </style>
 	<link rel='stylesheet' id='wp-block-library-css'  href='https://timmose.github.io/reink/wp-includes/css/dist/block-library/style.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='SweetAlertCSS-css'  href='https://timmose.github.io/reink/wp-content/plugins/simple-adblock-notice/css/sweet-alert.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='StyleCSS-css'  href='https://timmose.github.io/reink/wp-content/plugins/simple-adblock-notice/css/style.css?ver=5.4.1' type='text/css' media='all' />
 <link rel='stylesheet' id='fontello-css'  href='https://timmose.github.io/reink/wp-content/themes/carrino/css/fontello/css/fontello.css' type='text/css' media='all' />
 <link rel='stylesheet' id='carrino-google-font-poppins-css'  href='https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,700i,800,800i' type='text/css' media='all' />
 <link rel='stylesheet' id='carrino-reset-css'  href='https://timmose.github.io/reink/wp-content/themes/carrino/css/normalize.css?ver=1.0.0' type='text/css' media='all' />
@@ -50,6 +52,7 @@ img.emoji {
 <link rel='stylesheet' id='carrino-gutenberg-css'  href='https://timmose.github.io/reink/wp-content/themes/carrino/css/gutenberg.css?ver=1.0.0' type='text/css' media='all' />
 <script type='text/javascript' src='https://timmose.github.io/reink/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
 <script type='text/javascript' src='https://timmose.github.io/reink/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://timmose.github.io/reink/wp-content/plugins/simple-adblock-notice/js/sweet-alert.min.js?ver=5.4.1'></script>
 <script type='text/javascript' src='https://timmose.github.io/reink/wp-content/themes/carrino/js/main.js?ver=1.0.0'></script>
 <link rel='https://api.w.org/' href='https://timmose.github.io/reink/wp-json/' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://timmose.github.io/reink/xmlrpc.php?rsd" />
@@ -130,10 +133,10 @@ img.emoji {
 		
 
 <form role="search" method="get" class="search-form" action="https://timmose.github.io/reink/">
-	<label for="search-form-5ead9e710a3e2">
+	<label for="search-form-5eada17260d6a">
 		<span class="screen-reader-text">Search for:</span>
 	</label>
-	<input type="search" id="search-form-5ead9e710a3e2" class="search-field" placeholder="Search and press Enter" value="" name="s" />
+	<input type="search" id="search-form-5eada17260d6a" class="search-field" placeholder="Search and press Enter" value="" name="s" />
 	<button type="submit" class="search-submit"><i class="icon-search"></i><span class="screen-reader-text">Search</span></button>
 </form>
 	</div>
@@ -700,7 +703,54 @@ img.emoji {
 					<a href="" class="goto-top backtotop"><i class="icon-up-open"></i></a>
 				
 		
-		<!-- Pageviews SDK -->
+
+                    <script type="text/javascript">
+                    jQuery(document).ready(function($) {
+
+                        setTimeout(function() {
+                            if ( typeof(window.google_jobrunner) === "undefined" ) {
+
+                                //ad blocker installed - show notice
+
+                                swal({
+                                    title: "Adblocker Detected",
+                                    text: "We have detected that you are using adblocking plugin in your browser. Please whitelist our website and refresh this page to hide this message",
+                                    type: "warning",
+                                    showCancelButton: true,
+                                    confirmButtonColor: "#01A9DB",
+                                    confirmButtonText: "Yes, I'll Whitelist",
+                                    cancelButtonText: "Cancel",
+                                    closeOnConfirm: false,
+                                    closeOnCancel: false
+                                },
+                                function(isConfirm){
+                                    if (isConfirm) {
+                                        swal("Thank you", "You will not see this message once you whitelist our website on ad blocker. :)", "success");
+                                        jQuery(".san_howtowhitelist").hide('slow');
+                                    } else {
+                                        swal("Oh..", "Oh.. Hope you whitelist our website in your ad blocker soon!", "error");
+                                        jQuery(".san_howtowhitelist").hide('slow');
+                                    }
+                                });
+
+                                                            }
+
+                        }, 10000);
+
+
+                        jQuery(".san_howtowhitelist .san_howtowhitelist_btn").click(function(e) {
+                            swal.close();
+                            jQuery(".san_howtowhitelist").hide();
+                            setTimeout(function() {
+                                jQuery(".san_howtowhitelist_modal_wrapper").show();
+                            },400);
+
+                        });
+
+                    });
+                    </script>
+
+                                        		<!-- Pageviews SDK -->
 		<script>
 		var _pv_config = {"account":"b7a701b2d74c3b1680345710a387eefa6741817d","incr":null,"base":"https:\/\/pv.pjtsu.com\/v1"};
 				(function(){
