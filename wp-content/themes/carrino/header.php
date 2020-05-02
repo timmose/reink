@@ -20,37 +20,7 @@
 <link rel="profile" href="http://gmpg.org/xfn/11">
 
 <?php wp_head(); ?>
-</head><script type="text/javascript">
-var ads = "no-adb"
-var msg = '<div class="no-adb-1">Вы используете расширение AdBlock или подобное. Вы можете добавить этот сайт в белый список, и тем самым внесете свой вклад в его развитие.</div>';
-    
-onload=function(){
-if (document.getElementsByClassName == undefined) {
-document.getElementsByClassName = function(className)
-{
-var hasClassName = new RegExp("(?:^|\s)" + className + "(?:$|\s)");
-var allElements = document.getElementsByTagName("*");
-var results = [];
-var element;
-for (var i = 0; (element = allElements[i]) != null; i++) {
-var elementClass = element.className;
-if (elementClass && elementClass.indexOf(className) != -1 && hasClassName.test(elementClass))
-results.push(element);
-}
-return results;
-}
-}
-    
-blocked = 0;
-var ad_nodes = document.getElementsByClassName(ads);
-for(i in ad_nodes){
-if (ad_nodes[i].offsetHeight == 0){
-blocked = 1;
-ad_nodes[i].innerHTML = msg;  
-}
-}
-}
-</script>
+</head>
 
 <?php $sticky_nav = ( get_theme_mod( 'carrino_sticky_nav', false ) ? ' sticky-nav' : '' ); ?>
 
