@@ -1,0 +1,2443 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"\" #: comments.php:19 msgid \"Website\" msgstr \"\" #: comments.php:21 msgid......Save my name, email, and website in thi\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:22
+msgid "404"
+msgstr ""
+
+#: 404.php:23
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:25
+msgid "Why not start from"
+msgstr ""
+
+#: 404.php:25
+msgid "Scratch"
+msgstr ""
+
+#: 404.php:28
+msgid "Try searching for something else."
+msgstr ""
+
+#: 404.php:33 404.php:38 inc/headers/header-1.php:22
+#: inc/headers/header-1.php:27 inc/headers/header-1.php:137
+#: inc/headers/header-1.php:141 inc/headers/header-2.php:66
+#: inc/headers/header-2.php:71 inc/headers/header-2.php:186
+#: inc/headers/header-2.php:190 inc/headers/header-3.php:78
+#: inc/headers/header-3.php:83 inc/headers/header-3.php:108
+#: inc/headers/header-3.php:112 inc/headers/header-4.php:66
+#: inc/headers/header-4.php:71 inc/headers/header-4.php:206
+#: inc/headers/header-4.php:210 searchform.php:13
+msgid "Search"
+msgstr ""
+
+#: 404.php:35 inc/headers/header-1.php:20 inc/headers/header-1.php:24
+#: inc/headers/header-2.php:64 inc/headers/header-2.php:68
+#: inc/headers/header-3.php:76 inc/headers/header-3.php:80
+#: inc/headers/header-4.php:64 inc/headers/header-4.php:68
+msgid "Search for"
+msgstr ""
+
+#: comments.php:15
+msgid "Name"
+msgstr ""
+
+#: comments.php:17
+msgid "Email Address"
+msgstr ""
+
+#: comments.php:19
+msgid "Website"
+msgstr ""
+
+#: comments.php:21
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: comments.php:24
+msgid "Comment"
+msgstr ""
+
+#: comments.php:87
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:92
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: core/customizer.php:22
+msgid "Custom Colors"
+msgstr ""
+
+#: core/helpers.php:17
+msgid "Main Menu"
+msgstr ""
+
+#: customize/customizer.php:16
+msgid "Shop Sidebar"
+msgstr ""
+
+#: customize/customizer.php:23
+msgid "General Settings"
+msgstr ""
+
+#: customize/customizer.php:29
+msgid "Front Page"
+msgstr ""
+
+#: customize/customizer.php:33
+msgid "All Main Elements Order"
+msgstr ""
+
+#: customize/customizer.php:39
+msgid "Posts Feed Sidebar"
+msgstr ""
+
+#: customize/customizer.php:45
+msgid "Banner section"
+msgstr ""
+
+#: customize/customizer.php:51
+msgid "Posts Slider section"
+msgstr ""
+
+#: customize/customizer.php:57
+msgid "Blog feed section"
+msgstr ""
+
+#: customize/customizer.php:64
+msgid "Featured Categories section"
+msgstr ""
+
+#: customize/customizer.php:71
+msgid "Featured Posts section"
+msgstr ""
+
+#: customize/customizer.php:77
+msgid "Large / Highlight Post section"
+msgstr ""
+
+#: customize/customizer.php:83
+msgid "Footer Posts Slider section"
+msgstr ""
+
+#: customize/customizer.php:89
+msgid "Promotion Banner (Custom HTML) section"
+msgstr ""
+
+#: customize/customizer.php:95
+msgid "Subscribe Form (Custom HTML) section"
+msgstr ""
+
+#: customize/customizer.php:104
+msgid "Footer"
+msgstr ""
+
+#: customize/customizer.php:109 customize/customizer.php:1931
+msgid "Footer Design"
+msgstr ""
+
+#: customize/customizer.php:114
+msgid "Footer Content"
+msgstr ""
+
+#: customize/customizer.php:119
+msgid "Footer Colors"
+msgstr ""
+
+#: customize/customizer.php:124 footer.php:86
+msgid "Footer Logo"
+msgstr ""
+
+#: customize/customizer.php:131 customize/customizer.php:286
+#: customize/customizer.php:1431 customize/customizer.php:1640
+#: customize/customizer.php:1772 customize/customizer.php:3535
+msgid "Typography"
+msgstr ""
+
+#: customize/customizer.php:136
+msgid "Typography for Menu"
+msgstr ""
+
+#: customize/customizer.php:140
+msgid "Typography for Post Title"
+msgstr ""
+
+#: customize/customizer.php:144
+msgid "Typography for Categories Title"
+msgstr ""
+
+#: customize/customizer.php:148
+msgid "Typography for Body Text"
+msgstr ""
+
+#: customize/customizer.php:153
+msgid "Typography for Pre (Code Element)"
+msgstr ""
+
+#: customize/customizer.php:158 customize/customizer.php:4488
+msgid "Typography H1"
+msgstr ""
+
+#: customize/customizer.php:162 customize/customizer.php:4501
+msgid "Typography H2"
+msgstr ""
+
+#: customize/customizer.php:166 customize/customizer.php:4514
+msgid "Typography H3"
+msgstr ""
+
+#: customize/customizer.php:170 customize/customizer.php:4527
+msgid "Typography H4"
+msgstr ""
+
+#: customize/customizer.php:174 customize/customizer.php:4540
+msgid "Typography H5"
+msgstr ""
+
+#: customize/customizer.php:178 customize/customizer.php:4553
+msgid "Typography H6"
+msgstr ""
+
+#: customize/customizer.php:182
+msgid "Typography H7"
+msgstr ""
+
+#: customize/customizer.php:186
+msgid "Upload Custom Font"
+msgstr ""
+
+#: customize/customizer.php:192
+msgid "Header"
+msgstr ""
+
+#: customize/customizer.php:197
+msgid "Header Settings"
+msgstr ""
+
+#: customize/customizer.php:201
+msgid "Header Design"
+msgstr ""
+
+#: customize/customizer.php:207 customize/customizer.php:305
+msgid "Header Colors"
+msgstr ""
+
+#: customize/customizer.php:212
+msgid "Menu Design"
+msgstr ""
+
+#: customize/customizer.php:216
+msgid "Buttons Design"
+msgstr ""
+
+#: customize/customizer.php:221
+msgid "Mobile Menu Design"
+msgstr ""
+
+#: customize/customizer.php:227
+msgid "Blog Feed"
+msgstr ""
+
+#: customize/customizer.php:232 customize/customizer.php:392
+msgid "Layouts"
+msgstr ""
+
+#: customize/customizer.php:242 customize/customizer.php:402
+msgid "Design"
+msgstr ""
+
+#: customize/customizer.php:247
+msgid "Pagination"
+msgstr ""
+
+#: customize/customizer.php:252
+msgid "Posts Meta"
+msgstr ""
+
+#: customize/customizer.php:257
+msgid "Read more Design"
+msgstr ""
+
+#: customize/customizer.php:262
+msgid "Thumb Hover Effects"
+msgstr ""
+
+#: customize/customizer.php:268 customize/customizer.php:3922
+msgid "Category Design"
+msgstr ""
+
+#: customize/customizer.php:274 customize/customizer.php:3994
+msgid "Border Radius Style"
+msgstr ""
+
+#: customize/customizer.php:280 customize/customizer.php:420
+msgid "Colors"
+msgstr ""
+
+#: customize/customizer.php:294
+msgid "Common Elements Colors"
+msgstr ""
+
+#: customize/customizer.php:299
+msgid "Main Color Background"
+msgstr ""
+
+#: customize/customizer.php:310
+msgid "Menu colors"
+msgstr ""
+
+#: customize/customizer.php:315
+msgid "Mobile Menu colors"
+msgstr ""
+
+#: customize/customizer.php:320
+msgid "Primary Colors"
+msgstr ""
+
+#: customize/customizer.php:325
+msgid "Overlay Colors"
+msgstr ""
+
+#: customize/customizer.php:330
+msgid "Typography Colors"
+msgstr ""
+
+#: customize/customizer.php:335
+msgid "Sorting Colors"
+msgstr ""
+
+#: customize/customizer.php:340
+msgid "Blog Feed Colors"
+msgstr ""
+
+#: customize/customizer.php:348 customize/customizer.php:407
+msgid "Sidebar"
+msgstr ""
+
+#: customize/customizer.php:353 customize/customizer.php:2108
+msgid "Sidebar Design"
+msgstr ""
+
+#: customize/customizer.php:358 customize/customizer.php:2123
+msgid "Sidebar Title Design"
+msgstr ""
+
+#: customize/customizer.php:363
+msgid "Sidebar Color Settings"
+msgstr ""
+
+#: customize/customizer.php:370
+msgid "Socials"
+msgstr ""
+
+#: customize/customizer.php:375
+msgid "Socials Links"
+msgstr ""
+
+#: customize/customizer.php:380
+msgid "Socials Links Order"
+msgstr ""
+
+#: customize/customizer.php:387
+msgid "Single Post"
+msgstr ""
+
+#: customize/customizer.php:397
+msgid "Meta"
+msgstr ""
+
+#: customize/customizer.php:415
+msgid "404 page"
+msgstr ""
+
+#: customize/customizer.php:427
+msgid "Pages"
+msgstr ""
+
+#: customize/customizer.php:432
+msgid "Advanced"
+msgstr ""
+
+#: customize/customizer.php:437
+msgid "Menu Settings"
+msgstr ""
+
+#: customize/customizer.php:460
+msgid "Shop Sidebar Design"
+msgstr ""
+
+#: customize/customizer.php:465 customize/customizer.php:722
+#: customize/customizer.php:2549
+msgid "Default Design"
+msgstr ""
+
+#: customize/customizer.php:466 customize/customizer.php:723
+#: customize/customizer.php:2550
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: customize/customizer.php:475
+msgid "gutenblog-theme"
+msgstr ""
+
+#: customize/customizer.php:477
+msgid "GutenBlog Pro"
+msgstr ""
+
+#: customize/customizer.php:479
+msgid "Update theme for many amazing features and expert support included in the professional version"
+msgstr ""
+
+#: customize/customizer.php:486
+msgid "Current Theme: GutenBlog"
+msgstr ""
+
+#: customize/customizer.php:487
+msgid "Demo Site"
+msgstr ""
+
+#: customize/customizer.php:488
+msgid "Text"
+msgstr ""
+
+#: customize/customizer.php:491
+msgid "Read how to customize the theme, set up widgets, and learn of all the possible options available to you."
+msgstr ""
+
+#: customize/customizer.php:493
+msgid "Sample Data"
+msgstr ""
+
+#: customize/customizer.php:494
+msgid "You can install the content and settings shown on our demo site by importing this sample data."
+msgstr ""
+
+#: customize/customizer.php:496
+msgid "Feedback and Support"
+msgstr ""
+
+#: customize/customizer.php:497
+msgid "For feedback and support, please contact us and we would be happy to assist!"
+msgstr ""
+
+#: customize/customizer.php:510
+msgid "Show Example Content?"
+msgstr ""
+
+#: customize/customizer.php:511
+msgid "Turning this off will disable all default/sample images for posts. It will also hide all default widgets in the Default Sidebar."
+msgstr ""
+
+#: customize/customizer.php:520
+msgid "Enable \"NiceScroll\" Scrolling?"
+msgstr ""
+
+#: customize/customizer.php:521 customize/customizer.php:532
+#: customize/customizer.php:545 customize/customizer.php:4196
+msgid "Turned off on mobile devices."
+msgstr ""
+
+#: customize/customizer.php:531
+msgid "Enable \"Fade In/Fade Out\" effect on changing page?"
+msgstr ""
+
+#: customize/customizer.php:544
+msgid "Enable Cursor effect?"
+msgstr ""
+
+#: customize/customizer.php:551 customize/customizer.php:625
+#: customize/customizer.php:3057
+msgid "Disable"
+msgstr ""
+
+#: customize/customizer.php:552
+msgid "Cursor Circle"
+msgstr ""
+
+#: customize/customizer.php:560
+msgid "Select \"Cursor Circle\" style"
+msgstr ""
+
+#: customize/customizer.php:566
+msgid "Color Inversion"
+msgstr ""
+
+#: customize/customizer.php:567
+msgid "One color"
+msgstr ""
+
+#: customize/customizer.php:581
+msgid "Select \"Cursor Circle\" color"
+msgstr ""
+
+#: customize/customizer.php:607
+msgid "Enable \"Side Cart\" by clicking on the \"Cart\" button?"
+msgstr ""
+
+#: customize/customizer.php:619
+msgid "Enable \"Preloader\"?"
+msgstr ""
+
+#: customize/customizer.php:626 customize/customizer.php:1938
+msgid "Default"
+msgstr ""
+
+#: customize/customizer.php:634
+msgid "Select Main Color"
+msgstr ""
+
+#: customize/customizer.php:652
+msgid "Select Second Color"
+msgstr ""
+
+#: customize/customizer.php:670
+msgid "Enable \"Preloader\" on mobile?"
+msgstr ""
+
+#: customize/customizer.php:679
+msgid "Preloader Image"
+msgstr ""
+
+#: customize/customizer.php:703
+msgid "Select Front Page Layout"
+msgstr ""
+
+#: customize/customizer.php:717
+msgid "Front Page Sidebar Design"
+msgstr ""
+
+#: customize/customizer.php:732 customize/customizer.php:744
+msgid "Banner"
+msgstr ""
+
+#: customize/customizer.php:733 customize/customizer.php:745
+#: customize/customizer.php:859
+msgid "Posts Slider"
+msgstr ""
+
+#: customize/customizer.php:734 customize/theme-defaults.php:189
+msgid "Featured Categories"
+msgstr ""
+
+#: customize/customizer.php:735 customize/customizer.php:747
+#: customize/theme-defaults.php:239
+msgid "Featured Posts"
+msgstr ""
+
+#: customize/customizer.php:736 customize/customizer.php:748
+msgid "Posts Feed"
+msgstr ""
+
+#: customize/customizer.php:737 customize/customizer.php:749
+msgid "Large (Highlighted) Post"
+msgstr ""
+
+#: customize/customizer.php:738 customize/customizer.php:750
+msgid "Footer Posts Slider"
+msgstr ""
+
+#: customize/customizer.php:739 customize/customizer.php:751
+msgid "Promotion Banner"
+msgstr ""
+
+#: customize/customizer.php:740 customize/customizer.php:752
+msgid "Subscribe Form"
+msgstr ""
+
+#: customize/customizer.php:746
+msgid "Featured Categories (Disabled)"
+msgstr ""
+
+#: customize/customizer.php:760
+msgid "Ordering of Elements on Front Page"
+msgstr ""
+
+#: customize/customizer.php:771 customize/customizer.php:3913
+msgid "<hr />"
+msgstr ""
+
+#: customize/customizer.php:772
+msgid "Order Elements on Front Page"
+msgstr ""
+
+#: customize/customizer.php:784
+msgid "<hr />Setup Image for Banner from \"Header Image\" tab"
+msgstr ""
+
+#: customize/customizer.php:792
+msgid "Show Color Overlay/Filter?"
+msgstr ""
+
+#: customize/customizer.php:802
+msgid "Select Color"
+msgstr ""
+
+#: customize/customizer.php:822 customize/customizer.php:1738
+msgid "Slider Design"
+msgstr ""
+
+#: customize/customizer.php:835 customize/customizer.php:1053
+#: customize/customizer.php:1452 customize/customizer.php:1556
+#: customize/customizer.php:1751 customize/customizer.php:1801
+#: customize/customizer.php:1876
+msgid "Custom Color for section"
+msgstr ""
+
+#: customize/customizer.php:836 customize/customizer.php:1054
+#: customize/customizer.php:1453 customize/customizer.php:1557
+#: customize/customizer.php:1752 customize/customizer.php:1802
+#: customize/customizer.php:1877
+msgid "By default, colors are used from Common Elements"
+msgstr ""
+
+#: customize/customizer.php:840 customize/customizer.php:1058
+#: customize/customizer.php:1457 customize/customizer.php:1561
+#: customize/customizer.php:1756 customize/customizer.php:1806
+#: customize/customizer.php:1881
+msgid "Custom"
+msgstr ""
+
+#: customize/customizer.php:841 customize/customizer.php:1059
+#: customize/customizer.php:1458 customize/customizer.php:1562
+#: customize/customizer.php:1757 customize/customizer.php:1807
+#: customize/customizer.php:1882
+msgid "Common"
+msgstr ""
+
+#: customize/customizer.php:847 customize/customizer.php:1065
+#: customize/customizer.php:1383 customize/customizer.php:1464
+#: customize/customizer.php:1568 customize/customizer.php:1763
+#: customize/customizer.php:1813 customize/customizer.php:1888
+#: customize/customizer.php:2371 customize/customizer.php:2433
+#: customize/customizer.php:3813
+msgid "Background color"
+msgstr ""
+
+#: customize/customizer.php:860 customize/customizer.php:1660
+msgid "Select a category to show posts from in the slider. Also enter the number of posts to show from that category."
+msgstr ""
+
+#: customize/customizer.php:867 customize/customizer.php:1667
+msgid "Posts Slider - Category"
+msgstr ""
+
+#: customize/customizer.php:876 customize/customizer.php:1677
+msgid "Posts Slider - Number of Slides/Posts"
+msgstr ""
+
+#: customize/customizer.php:877 customize/customizer.php:1678
+msgid "There should be at least three posts in the chosen category for the slider to show up."
+msgstr ""
+
+#: customize/customizer.php:887 customize/customizer.php:1688
+msgid "Show only slides with Thumbnails"
+msgstr ""
+
+#: customize/customizer.php:896 customize/customizer.php:1312
+#: customize/customizer.php:1711 customize/customizer.php:2353
+#: customize/customizer.php:3267
+msgid "Show Overlay Color?"
+msgstr ""
+
+#: customize/customizer.php:904 customize/customizer.php:1320
+#: customize/customizer.php:1355 customize/customizer.php:3275
+#: customize/customizer.php:3310
+msgid "Custom Overlay color?"
+msgstr ""
+
+#: customize/customizer.php:913 customize/customizer.php:948
+#: customize/customizer.php:1329 customize/customizer.php:1364
+#: customize/customizer.php:3284 customize/customizer.php:3319
+msgid "First Overlay color"
+msgstr ""
+
+#: customize/customizer.php:922 customize/customizer.php:957
+#: customize/customizer.php:1338 customize/customizer.php:1373
+#: customize/customizer.php:3293 customize/customizer.php:3328
+msgid "Second Overlay color"
+msgstr ""
+
+#: customize/customizer.php:931 customize/customizer.php:1347
+#: customize/customizer.php:1719 customize/customizer.php:3302
+msgid "Show Overlay on Hover Color?"
+msgstr ""
+
+#: customize/customizer.php:939
+msgid "Custom Overlay color on Hover?"
+msgstr ""
+
+#: customize/customizer.php:968 customize/customizer.php:1026
+#: customize/customizer.php:3790
+msgid "Title typography"
+msgstr ""
+
+#: customize/customizer.php:981 customize/customizer.php:1039
+msgid "Description typography"
+msgstr ""
+
+#: customize/customizer.php:998 customize/customizer.php:1089
+msgid "Heading"
+msgstr ""
+
+#: customize/customizer.php:1006
+msgid "Select Featured Categories"
+msgstr ""
+
+#: customize/customizer.php:1016
+msgid "Featured Categories Columns"
+msgstr ""
+
+#: customize/customizer.php:1074 customize/customizer.php:1391
+#: customize/customizer.php:1473 customize/customizer.php:2645
+msgid "Heading color"
+msgstr ""
+
+#: customize/customizer.php:1097
+msgid "Featured Posts Design"
+msgstr ""
+
+#: customize/customizer.php:1121
+msgid "Post 1"
+msgstr ""
+
+#: customize/customizer.php:1131
+msgid "Post 2"
+msgstr ""
+
+#: customize/customizer.php:1140
+msgid "Post 3"
+msgstr ""
+
+#: customize/customizer.php:1156
+msgid "Post 4"
+msgstr ""
+
+#: customize/customizer.php:1175
+msgid "Post 5"
+msgstr ""
+
+#: customize/customizer.php:1200
+msgid "Post 6"
+msgstr ""
+
+#: customize/customizer.php:1229
+msgid "Post 7"
+msgstr ""
+
+#: customize/customizer.php:1261
+msgid "Post 8"
+msgstr ""
+
+#: customize/customizer.php:1297
+msgid "Paddings for each post"
+msgstr ""
+
+#: customize/customizer.php:1298
+msgid "Type the size of padding in PX which will apply on each post in the section"
+msgstr ""
+
+#: customize/customizer.php:1399 customize/customizer.php:1482
+#: customize/customizer.php:1604 customize/customizer.php:2653
+msgid "Post Title color"
+msgstr ""
+
+#: customize/customizer.php:1407 customize/customizer.php:1491
+#: customize/customizer.php:2661
+msgid "Post Title Hover color"
+msgstr ""
+
+#: customize/customizer.php:1415
+msgid "Category Text color"
+msgstr ""
+
+#: customize/customizer.php:1423 customize/customizer.php:1500
+#: customize/customizer.php:2669
+msgid "Post Description color"
+msgstr ""
+
+#: customize/customizer.php:1509 customize/customizer.php:1631
+#: customize/customizer.php:2677
+msgid "Entry Meta color"
+msgstr ""
+
+#: customize/customizer.php:1537
+msgid "Select Heading for Large (Highlighted) Post"
+msgstr ""
+
+#: customize/customizer.php:1545
+msgid "Select Large (Highlighted) Post"
+msgstr ""
+
+#: customize/customizer.php:1577
+msgid "Label Background color"
+msgstr ""
+
+#: customize/customizer.php:1586
+msgid "Label Text color"
+msgstr ""
+
+#: customize/customizer.php:1595
+msgid "Post Container Background color"
+msgstr ""
+
+#: customize/customizer.php:1613
+msgid "Post Category color"
+msgstr ""
+
+#: customize/customizer.php:1622
+msgid "Description text color"
+msgstr ""
+
+#: customize/customizer.php:1659
+msgid "<hr />Posts Slider"
+msgstr ""
+
+#: customize/customizer.php:1699
+msgid "Posts Slider - Number of Columns"
+msgstr ""
+
+#: customize/customizer.php:1788
+msgid "Promotion Banner HTML"
+msgstr ""
+
+#: customize/customizer.php:1789
+msgid "Fill in textarea with HTML of custom Promotion Banner"
+msgstr ""
+
+#: customize/customizer.php:1826
+msgid "Choose whatever to output Form as Shortcode or HTML"
+msgstr ""
+
+#: customize/customizer.php:1831
+msgid "Shortcode"
+msgstr ""
+
+#: customize/customizer.php:1832
+msgid "HTML"
+msgstr ""
+
+#: customize/customizer.php:1840
+msgid "Subscribe Form HTML"
+msgstr ""
+
+#: customize/customizer.php:1841
+msgid "Fill in textarea with HTML of custom Subscribe Form. For example, you can use Mailchimp Plugin to generate the need form HTML"
+msgstr ""
+
+#: customize/customizer.php:1860
+msgid "Subscribe Form Shortcode"
+msgstr ""
+
+#: customize/customizer.php:1861
+msgid "Fill in input with Shortcode of custom Subscribe Form. For example, you can use Mailchimp Plugin to generate the need shortcode. Example: [mc4wp_form id=\"3451\"]"
+msgstr ""
+
+#: customize/customizer.php:1897
+msgid "Form Background color"
+msgstr ""
+
+#: customize/customizer.php:1906 customize/customizer.php:1915
+msgid "Form Text color"
+msgstr ""
+
+#: customize/customizer.php:1939
+msgid "Parallax"
+msgstr ""
+
+#: customize/customizer.php:1948
+msgid "Copyright Text"
+msgstr ""
+
+#: customize/customizer.php:1949 customize/customizer.php:1959
+msgid "Accepts HTML."
+msgstr ""
+
+#: customize/customizer.php:1958
+msgid "Credit"
+msgstr ""
+
+#: customize/customizer.php:1971
+msgid "Footer Background color"
+msgstr ""
+
+#: customize/customizer.php:1981
+msgid "Footer text color"
+msgstr ""
+
+#: customize/customizer.php:1994
+msgid "Footer logo"
+msgstr ""
+
+#: customize/customizer.php:1995
+msgid "Only in footer"
+msgstr ""
+
+#: customize/customizer.php:2009
+msgid "Show Image Logo?"
+msgstr ""
+
+#: customize/customizer.php:2010
+msgid "Choose whether to display the image logo."
+msgstr ""
+
+#: customize/customizer.php:2014 customize/customizer.php:2185
+#: customize/customizer.php:3110
+msgid "SHOW"
+msgstr ""
+
+#: customize/customizer.php:2014 customize/customizer.php:2185
+#: customize/customizer.php:3110
+msgid "HIDE"
+msgstr ""
+
+#: customize/customizer.php:2028
+msgid "Logo Max Width"
+msgstr ""
+
+#: customize/customizer.php:2050
+msgid "Logo Max Height"
+msgstr ""
+
+#: customize/customizer.php:2076
+msgid "Caption Heading"
+msgstr ""
+
+#: customize/customizer.php:2085
+msgid "Caption Description"
+msgstr ""
+
+#: customize/customizer.php:2094
+msgid "Caption URL"
+msgstr ""
+
+#: customize/customizer.php:2139
+msgid "Title Color"
+msgstr ""
+
+#: customize/customizer.php:2153
+msgid "Select Single post Layout"
+msgstr ""
+
+#: customize/customizer.php:2170
+msgid "\"Related Posts\" - Title Text"
+msgstr ""
+
+#: customize/customizer.php:2171
+msgid "Leave empty to hide"
+msgstr ""
+
+#: customize/customizer.php:2180 customize/customizer.php:3105
+msgid "Show Meta?"
+msgstr ""
+
+#: customize/customizer.php:2181
+msgid "Choose whether to display date, category, author, tags for posts on the post page."
+msgstr ""
+
+#: customize/customizer.php:2190
+msgid "Show Date?"
+msgstr ""
+
+#: customize/customizer.php:2199 customize/customizer.php:3225
+msgid "Show Category?"
+msgstr ""
+
+#: customize/customizer.php:2208 customize/customizer.php:3240
+msgid "Show Author?"
+msgstr ""
+
+#: customize/customizer.php:2217
+msgid "Show Tags?"
+msgstr ""
+
+#: customize/customizer.php:2229
+msgid "Show Likes?"
+msgstr ""
+
+#: customize/customizer.php:2243
+msgid "Show Likes or Rating on Comments?"
+msgstr ""
+
+#: customize/customizer.php:2248 customize/customizer.php:3559
+msgid "Likes"
+msgstr ""
+
+#: customize/customizer.php:2249 customize/customizer.php:3560
+msgid "Rating"
+msgstr ""
+
+#: customize/customizer.php:2250 customize/customizer.php:3561
+msgid "Nothing"
+msgstr ""
+
+#: customize/customizer.php:2257
+msgid "Allow setting Rating for Comments only for Logged In Users?"
+msgstr ""
+
+#: customize/customizer.php:2276 customize/customizer.php:3524
+msgid "Show Views?"
+msgstr ""
+
+#: customize/customizer.php:2286
+msgid "Typography Post Meta"
+msgstr ""
+
+#: customize/customizer.php:2308
+msgid "Show About Author?"
+msgstr ""
+
+#: customize/customizer.php:2317 customize/customizer.php:3258
+msgid "Show Share?"
+msgstr ""
+
+#: customize/customizer.php:2326
+msgid "Show Rating?"
+msgstr ""
+
+#: customize/customizer.php:2344
+msgid "Show Featured Image ?"
+msgstr ""
+
+#: customize/customizer.php:2345
+msgid "Whether to show featured image at the beginning of the post."
+msgstr ""
+
+#: customize/customizer.php:2361
+msgid "Show Prev/Next Posts?"
+msgstr ""
+
+#: customize/customizer.php:2362
+msgid "Whether to show the previous and next post links after the post content."
+msgstr ""
+
+#: customize/customizer.php:2380 customize/customizer.php:2442
+msgid "Link color"
+msgstr ""
+
+#: customize/customizer.php:2389
+msgid "Arrow color"
+msgstr ""
+
+#: customize/customizer.php:2398
+msgid "Typography Prev/Next Posts"
+msgstr ""
+
+#: customize/customizer.php:2417
+msgid "Show Breadcrumbs in Single post?"
+msgstr ""
+
+#: customize/customizer.php:2425
+msgid "Show Breadcrumbs in Top Bar?"
+msgstr ""
+
+#: customize/customizer.php:2451 customize/customizer.php:2943
+#: customize/customizer.php:3772 customize/customizer.php:3804
+msgid "Text color"
+msgstr ""
+
+#: customize/customizer.php:2460 customize/customizer.php:3781
+msgid "Icon color"
+msgstr ""
+
+#: customize/customizer.php:2469
+msgid "Typography Breadcrumbs"
+msgstr ""
+
+#: customize/customizer.php:2493
+msgid "Show Related Posts?"
+msgstr ""
+
+#: customize/customizer.php:2494
+msgid "Whether to show \"Related Posts\" after the post content."
+msgstr ""
+
+#: customize/customizer.php:2503
+msgid "Number of \"Related Posts\" to show"
+msgstr ""
+
+#: customize/customizer.php:2529
+msgid "Select Single post Design"
+msgstr ""
+
+#: customize/customizer.php:2544
+msgid "Single Sidebar Design"
+msgstr ""
+
+#: customize/customizer.php:2564
+msgid "Background Color"
+msgstr ""
+
+#: customize/customizer.php:2572
+msgid "Text Color"
+msgstr ""
+
+#: customize/customizer.php:2580 customize/customizer.php:2892
+msgid "Link Color"
+msgstr ""
+
+#: customize/customizer.php:2595
+msgid "Mobile Header Background Color"
+msgstr ""
+
+#: customize/customizer.php:2603
+msgid "Mobile Menu Icon Color"
+msgstr ""
+
+#: customize/customizer.php:2611
+msgid "Mobile First Level Menu Color"
+msgstr ""
+
+#: customize/customizer.php:2619
+msgid "Mobile First Level Menu HOVER Background Color"
+msgstr ""
+
+#: customize/customizer.php:2627
+msgid "Mobile Second Level Menu Color"
+msgstr ""
+
+#: customize/customizer.php:2635
+msgid "Mobile Second Level Menu Background Color"
+msgstr ""
+
+#: customize/customizer.php:2691
+msgid "Facebook Url"
+msgstr ""
+
+#: customize/customizer.php:2699
+msgid "Google + Url"
+msgstr ""
+
+#: customize/customizer.php:2707
+msgid "Instagram Url"
+msgstr ""
+
+#: customize/customizer.php:2715
+msgid "Twitter Url"
+msgstr ""
+
+#: customize/customizer.php:2723
+msgid "Behance Url"
+msgstr ""
+
+#: customize/customizer.php:2734
+msgid "Social Links Order"
+msgstr ""
+
+#: customize/customizer.php:2738 customize/customizer.php:3357
+msgid "Facebook"
+msgstr ""
+
+#: customize/customizer.php:2739 customize/customizer.php:3358
+msgid "Twitter"
+msgstr ""
+
+#: customize/customizer.php:2740 customize/customizer.php:3359
+msgid "Google"
+msgstr ""
+
+#: customize/customizer.php:2741
+msgid "Instagram"
+msgstr ""
+
+#: customize/customizer.php:2742
+msgid "Behance"
+msgstr ""
+
+#: customize/customizer.php:2752
+msgid "Site Conteiner Layout"
+msgstr ""
+
+#: customize/customizer.php:2753
+msgid "Choose \"Boxed\" or \"Full Width\" Layout"
+msgstr ""
+
+#: customize/customizer.php:2758
+msgid "Boxed"
+msgstr ""
+
+#: customize/customizer.php:2759
+msgid "Full Width"
+msgstr ""
+
+#: customize/customizer.php:2766
+msgid "Background Image Link"
+msgstr ""
+
+#: customize/customizer.php:2782
+msgid "Background Image Position"
+msgstr ""
+
+#: customize/customizer.php:2803
+msgid "Main color"
+msgstr ""
+
+#: customize/customizer.php:2804
+msgid "Color of basic design elements (corporate color)."
+msgstr ""
+
+#: customize/customizer.php:2815
+msgid "Inverse color"
+msgstr ""
+
+#: customize/customizer.php:2816
+msgid "INVERSE Color of basic design elements (corporate color)."
+msgstr ""
+
+#: customize/customizer.php:2829
+msgid "First Overlay Color"
+msgstr ""
+
+#: customize/customizer.php:2830
+msgid "Main Overlay Color"
+msgstr ""
+
+#: customize/customizer.php:2840 customize/customizer.php:2841
+msgid "Second Overlay Color"
+msgstr ""
+
+#: customize/customizer.php:2851
+msgid "First Overlay HOVER Color"
+msgstr ""
+
+#: customize/customizer.php:2852 customize/customizer.php:2863
+msgid "Only on Hover"
+msgstr ""
+
+#: customize/customizer.php:2862
+msgid "Second Overlay HOVER Color"
+msgstr ""
+
+#: customize/customizer.php:2882
+msgid "\"flying\" Background color on sorting links"
+msgstr ""
+
+#: customize/customizer.php:2891
+msgid "Sorting and tabs Link Color"
+msgstr ""
+
+#: customize/customizer.php:2902
+msgid "Active Sorting and tabs Link Color"
+msgstr ""
+
+#: customize/customizer.php:2903
+msgid "Active Link color"
+msgstr ""
+
+#: customize/customizer.php:2913
+msgid "Sorting Icon Color"
+msgstr ""
+
+#: customize/customizer.php:2914
+msgid "Icon Color"
+msgstr ""
+
+#: customize/customizer.php:2924
+msgid "Sorting typography"
+msgstr ""
+
+#: customize/customizer.php:2952
+msgid "Heading H1 color"
+msgstr ""
+
+#: customize/customizer.php:2962
+msgid "Heading H2 color"
+msgstr ""
+
+#: customize/customizer.php:2972
+msgid "Heading H3 color"
+msgstr ""
+
+#: customize/customizer.php:2982
+msgid "Heading H4 color"
+msgstr ""
+
+#: customize/customizer.php:2992
+msgid "Heading H5 color"
+msgstr ""
+
+#: customize/customizer.php:3002
+msgid "Heading H6 color"
+msgstr ""
+
+#: customize/customizer.php:3039
+msgid "Heading for Blog Feed"
+msgstr ""
+
+#: customize/customizer.php:3040
+msgid "The `Recent Posts` label for the blog feed."
+msgstr ""
+
+#: customize/customizer.php:3050
+msgid "Enable Selecting of Post Feed Category?"
+msgstr ""
+
+#: customize/customizer.php:3056
+msgid "Enable"
+msgstr ""
+
+#: customize/customizer.php:3065
+msgid "Posts Feed - Category"
+msgstr ""
+
+#: customize/customizer.php:3085
+msgid "Thumbnail Size"
+msgstr ""
+
+#: customize/customizer.php:3091
+msgid "Default Thumbnail Size"
+msgstr ""
+
+#: customize/customizer.php:3092
+msgid "Square (1:1)"
+msgstr ""
+
+#: customize/customizer.php:3093
+msgid "Horizontal (2:1)"
+msgstr ""
+
+#: customize/customizer.php:3094
+msgid "Vertical (1:2)"
+msgstr ""
+
+#: customize/customizer.php:3106
+msgid "Choose whether to display date, category, author, tags for posts in the blog feed. This applies to all blog feeds on all pages, including the front page."
+msgstr ""
+
+#: customize/customizer.php:3116
+msgid "Show Posts Content?"
+msgstr ""
+
+#: customize/customizer.php:3117
+msgid "hide or show posts content in feed as?"
+msgstr ""
+
+#: customize/customizer.php:3122
+msgid "Hide"
+msgstr ""
+
+#: customize/customizer.php:3123
+msgid "Content"
+msgstr ""
+
+#: customize/customizer.php:3124
+msgid "Excerpt"
+msgstr ""
+
+#: customize/customizer.php:3131
+msgid "Show Content(Slider) instead of Thumbnail for Gallery Post Format?"
+msgstr ""
+
+#: customize/customizer.php:3132
+msgid "For proper work, you need to add \"Gallery\" element in Guttenberg at the start of the page and straight after that add a \"More\" element to separate next content of the page."
+msgstr ""
+
+#: customize/customizer.php:3148
+msgid "Show Content(Video Player) instead of Thumbnail for Video Post Format?"
+msgstr ""
+
+#: customize/customizer.php:3149
+msgid "For proper work, you need to add \"Video\" element in Guttenberg at the start of the page and straight after that add a \"More\" element to separate next content of the page."
+msgstr ""
+
+#: customize/customizer.php:3165
+msgid "Show Content(Audio Player) instead of Thumbnail for Audio Post Format?"
+msgstr ""
+
+#: customize/customizer.php:3166
+msgid "For proper work, you need to add iframe element with audio content in Guttenberg at the start of the page and straight after that add a \"More\" element to separate next content of the page."
+msgstr ""
+
+#: customize/customizer.php:3183
+msgid "Lenght of Excerpt"
+msgstr ""
+
+#: customize/customizer.php:3184
+msgid "Type the lenght number from 10 to 200 words"
+msgstr ""
+
+#: customize/customizer.php:3206
+msgid "Show Date on Meta?"
+msgstr ""
+
+#: customize/customizer.php:3215
+msgid "Show Date on Thumbnail?"
+msgstr ""
+
+#: customize/customizer.php:3249
+msgid "Show Comments?"
+msgstr ""
+
+#: customize/customizer.php:3337
+msgid "Show Sorting?"
+msgstr ""
+
+#: customize/customizer.php:3348
+msgid "Social Media Order"
+msgstr ""
+
+#: customize/customizer.php:3349
+msgid "Choose which social media icons you want to display on your website and which order"
+msgstr ""
+
+#: customize/customizer.php:3360
+msgid "Pinterest"
+msgstr ""
+
+#: customize/customizer.php:3376
+msgid "Read More Design"
+msgstr ""
+
+#: customize/customizer.php:3395
+msgid "Gradient Color 1 for \"Read More\" buttons"
+msgstr ""
+
+#: customize/customizer.php:3396 customize/customizer.php:3413
+#: customize/customizer.php:3429 customize/customizer.php:3438
+#: customize/customizer.php:3461 customize/customizer.php:3478
+#: customize/customizer.php:3495 customize/customizer.php:3511
+msgid "If the button design contains this color"
+msgstr ""
+
+#: customize/customizer.php:3412
+msgid "Gradient Color 2 for \"Read More\" buttons"
+msgstr ""
+
+#: customize/customizer.php:3428
+msgid "Text Color for \"Read More\" buttons"
+msgstr ""
+
+#: customize/customizer.php:3437
+msgid "Icon Color for \"Read More\" buttons"
+msgstr ""
+
+#: customize/customizer.php:3460
+msgid "Gradient Color 1 for \"Read More\" buttons on Hover"
+msgstr ""
+
+#: customize/customizer.php:3477
+msgid "Gradient Color 2 for \"Read More\" buttons on Hover"
+msgstr ""
+
+#: customize/customizer.php:3494
+msgid "Icon HOVER Color for \"Read More\" buttons"
+msgstr ""
+
+#: customize/customizer.php:3510
+msgid "Text HOVER Color for \"Read More\" buttons"
+msgstr ""
+
+#: customize/customizer.php:3554
+msgid "Show Likes or Rating?"
+msgstr ""
+
+#: customize/customizer.php:3574
+msgid "Counter Background color"
+msgstr ""
+
+#: customize/customizer.php:3589
+msgid "Counter Text color"
+msgstr ""
+
+#: customize/customizer.php:3604
+msgid "Buttons Background color"
+msgstr ""
+
+#: customize/customizer.php:3619
+msgid "Buttons Text color"
+msgstr ""
+
+#: customize/customizer.php:3634
+msgid "Buttons Background HOVER color"
+msgstr ""
+
+#: customize/customizer.php:3649
+msgid "Buttons Text HOVER color"
+msgstr ""
+
+#: customize/customizer.php:3665
+msgid "Allow setting Rating only for Logged In Users?"
+msgstr ""
+
+#: customize/customizer.php:3684
+msgid "Post Display Layouts (With Sidebar)"
+msgstr ""
+
+#: customize/customizer.php:3685
+msgid "For \"One Full Column and Two below\" and \"One Full column\" setting choices \"Layout Columns\" setting which shown below is disabled"
+msgstr ""
+
+#: customize/customizer.php:3704
+msgid "Layout Columns"
+msgstr ""
+
+#: customize/customizer.php:3710
+msgid "2 Columns"
+msgstr ""
+
+#: customize/customizer.php:3713
+msgid "3 Columns"
+msgstr ""
+
+#: customize/customizer.php:3716
+msgid "4 Columns"
+msgstr ""
+
+#: customize/customizer.php:3758
+msgid "Pagination Layout"
+msgstr ""
+
+#: customize/customizer.php:3822
+msgid "Current Text color"
+msgstr ""
+
+#: customize/customizer.php:3831
+msgid "Current Background color"
+msgstr ""
+
+#: customize/customizer.php:3840 customize/customizer.php:3881
+msgid "Load more Typography"
+msgstr ""
+
+#: customize/customizer.php:3854
+msgid "Load more Background color"
+msgstr ""
+
+#: customize/customizer.php:3863
+msgid "Load more Text color"
+msgstr ""
+
+#: customize/customizer.php:3872
+msgid "Load more Icon color"
+msgstr ""
+
+#: customize/customizer.php:3897
+msgid "Posts Design"
+msgstr ""
+
+#: customize/customizer.php:3914
+msgid "At each Category Settings Page, you can set up such custom parameters as Category Text Color, Category Background Color, Category Icon, Category Background Image."
+msgstr ""
+
+#: customize/customizer.php:3936
+msgid "Background Type for Category"
+msgstr ""
+
+#: customize/customizer.php:3956
+msgid "Icon Type for Category"
+msgstr ""
+
+#: customize/customizer.php:3980
+msgid "Posts Hover Effects"
+msgstr ""
+
+#: customize/customizer.php:4007
+msgid "Select Header"
+msgstr ""
+
+#: customize/customizer.php:4022
+msgid "Header Wrap Background Color"
+msgstr ""
+
+#: customize/customizer.php:4023
+msgid "Choose Background color for Headers"
+msgstr ""
+
+#: customize/customizer.php:4035
+msgid "Blend Colors of Wave Effect?"
+msgstr ""
+
+#: customize/customizer.php:4052
+msgid "Wave Effect Mixing Color - 1"
+msgstr ""
+
+#: customize/customizer.php:4068
+msgid "Wave Effect Mixing Color - 2"
+msgstr ""
+
+#: customize/customizer.php:4084
+msgid "Wave Effect Mixing Color - 3"
+msgstr ""
+
+#: customize/customizer.php:4101
+msgid "Wave Effect Mixing Color - Background Desktop"
+msgstr ""
+
+#: customize/customizer.php:4118
+msgid "Wave Effect Mixing Color - Background Mobile"
+msgstr ""
+
+#: customize/customizer.php:4137
+msgid "Enable Sign in and Avatar in Header"
+msgstr ""
+
+#: customize/customizer.php:4138
+msgid "Sign in | Avatar Button"
+msgstr ""
+
+#: customize/customizer.php:4147
+msgid "Enable Cart Button in Header"
+msgstr ""
+
+#: customize/customizer.php:4148
+msgid "Cart Button"
+msgstr ""
+
+#: customize/customizer.php:4157
+msgid "Enable Hidden Sidebar Button in Header"
+msgstr ""
+
+#: customize/customizer.php:4158
+msgid "Hidden Sidebar Button"
+msgstr ""
+
+#: customize/customizer.php:4166
+msgid "Enable Search Button in Header"
+msgstr ""
+
+#: customize/customizer.php:4167
+msgid "Search Button"
+msgstr ""
+
+#: customize/customizer.php:4180
+msgid "Menu Position"
+msgstr ""
+
+#: customize/customizer.php:4186
+msgid "Left"
+msgstr ""
+
+#: customize/customizer.php:4187
+msgid "Center"
+msgstr ""
+
+#: customize/customizer.php:4188
+msgid "Right"
+msgstr ""
+
+#: customize/customizer.php:4195
+msgid "Enable \"Expanded Menu\" if there are too many menu items?"
+msgstr ""
+
+#: customize/customizer.php:4205 customize/customizer.php:4322
+msgid "Select Menu Design"
+msgstr ""
+
+#: customize/customizer.php:4219
+msgid "First Level Menu Color"
+msgstr ""
+
+#: customize/customizer.php:4227
+msgid "First Level Menu HOVER Color"
+msgstr ""
+
+#: customize/customizer.php:4235
+msgid "First Level Menu HOVER Background Color"
+msgstr ""
+
+#: customize/customizer.php:4250
+msgid "Submenu Link Color"
+msgstr ""
+
+#: customize/customizer.php:4258
+msgid "Submenu Link HOVER Color"
+msgstr ""
+
+#: customize/customizer.php:4266
+msgid "Submenu Background Color"
+msgstr ""
+
+#: customize/customizer.php:4274
+msgid "Submenu HOVER Background Color"
+msgstr ""
+
+#: customize/customizer.php:4284
+msgid "Select Buttons Design"
+msgstr ""
+
+#: customize/customizer.php:4303
+msgid "Icons color"
+msgstr ""
+
+#: customize/customizer.php:4311
+msgid "Label color"
+msgstr ""
+
+#: customize/customizer.php:4339
+msgid "Select Page Layout"
+msgstr ""
+
+#: customize/customizer.php:4360
+msgid "Search Icon in Main Nav?"
+msgstr ""
+
+#: customize/customizer.php:4361
+msgid "Add the search icon in the main top navigation."
+msgstr ""
+
+#: customize/customizer.php:4369
+msgid "Enable Dropdown Menu Parent Nodes"
+msgstr ""
+
+#: customize/customizer.php:4370
+msgid "The menu item that is clicked to drop down sub menus is not assigned a URL by default (it is set to #). If you would like to enable links for the parent nodes, you can do so here."
+msgstr ""
+
+#: customize/customizer.php:4378
+msgid "Show Submenus on Hover"
+msgstr ""
+
+#: customize/customizer.php:4379
+msgid "If you choose enable Submenu will work on the hover, if not,  on click."
+msgstr ""
+
+#: customize/customizer.php:4393
+msgid "Upload Custom Font Family 1"
+msgstr ""
+
+#: customize/customizer.php:4401
+msgid "Upload Custom Font Family 2"
+msgstr ""
+
+#: customize/customizer.php:4409
+msgid "Upload Custom Font Family 3"
+msgstr ""
+
+#: customize/customizer.php:4422
+msgid "Body Typography"
+msgstr ""
+
+#: customize/customizer.php:4435
+msgid "Pre (Code Element) Typography"
+msgstr ""
+
+#: customize/customizer.php:4448 inc/headers/header-1.php:127
+#: inc/headers/header-2.php:175 inc/headers/header-3.php:97
+#: inc/headers/header-4.php:195
+msgid "Menu"
+msgstr ""
+
+#: customize/customizer.php:4461
+msgid "Post Title"
+msgstr ""
+
+#: customize/customizer.php:4474
+msgid "Categories Title"
+msgstr ""
+
+#: customize/theme-defaults.php:14
+msgid "Copyright &copy; "
+msgstr ""
+
+#: customize/theme-defaults.php:15
+msgid "Theme by "
+msgstr ""
+
+#: customize/theme-defaults.php:124 customize/theme-defaults.php:125
+#: customize/theme-defaults.php:126 customize/theme-defaults.php:127
+#: customize/theme-defaults.php:128
+msgid "#"
+msgstr ""
+
+#: customize/theme-defaults.php:281
+msgid "My Diary"
+msgstr ""
+
+#: customize/theme-defaults.php:380
+msgid "Recent Posts"
+msgstr ""
+
+#: customize/theme-defaults.php:472
+msgid "Related Posts"
+msgstr ""
+
+#: functions.php:68
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:87
+msgid "Theme Main Color"
+msgstr ""
+
+#: functions.php:92
+msgid "Inverse Main Color"
+msgstr ""
+
+#: functions.php:306 functions.php:315
+msgid "After you import this demo, you will have to setup the slider separately."
+msgstr ""
+
+#: functions.php:385
+msgid "ThemesMonster Core"
+msgstr ""
+
+#: functions.php:461 functions.php:466 functions.php:481 functions.php:486
+msgid "Read More"
+msgstr ""
+
+#: functions.php:905
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: functions.php:909
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: functions.php:1608
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:1610
+msgid "Your comment is awaiting moderation. This is a preview, your comment will be visible after it has been approved."
+msgstr ""
+
+#: functions.php:1626
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: functions.php:1637
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:1641
+msgid "Edit"
+msgstr ""
+
+#: functions.php:1834 parts/single-default.php:428
+#: parts/single-full-thumb.php:440
+msgid "by"
+msgstr ""
+
+#: functions.php:2115
+msgid "Uncategorized"
+msgstr ""
+
+#: functions.php:2613
+msgid "Search Results: "
+msgstr ""
+
+#: image.php:38
+msgid "Attachment ID: "
+msgstr ""
+
+#: image.php:59
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:60
+msgid "Next Image"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:296
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:297 welcome-page/welcome-page.php:32
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:299
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:301
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:302
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:354
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:355
+#: inc/class-tgm-plugin-activation.php:796
+#: inc/class-tgm-plugin-activation.php:2502
+#: inc/class-tgm-plugin-activation.php:3549
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:356
+#: inc/class-tgm-plugin-activation.php:3128
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:357
+#: inc/class-tgm-plugin-activation.php:2921
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:363
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:364
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:365
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:366
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:491
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:492
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:903
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:903
+#: inc/class-tgm-plugin-activation.php:906
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:906
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1951
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2242
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2245
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2261
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2264
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2267
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2284
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2288
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2290
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2296
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2299
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2302
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2361
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2365
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2369
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2459
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2467
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2479
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2502
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2516
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2517
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2518
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2522
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2523
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2572
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2577
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2583
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2653
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2686
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2692
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2695
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2728
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2769
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2771
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2877
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2903
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3127
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3467
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3470
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3472
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3476
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3478
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3478
+#: inc/class-tgm-plugin-activation.php:3486
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3478
+#: inc/class-tgm-plugin-activation.php:3486
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3479
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3481
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3484
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3486
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3487
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3489
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/gutenblog-kirki-installer.php:54
+msgid "A plugin is recommended to take advantage of this theme's features in the customizer."
+msgstr ""
+
+#: inc/gutenblog-kirki-installer.php:55
+msgid "Install Kirki Toolkit now"
+msgstr ""
+
+#: inc/gutenblog-kirki-installer.php:56 welcome-page/welcome-page.php:69
+msgid "Install Now"
+msgstr ""
+
+#: inc/gutenblog-kirki-installer.php:59
+msgid "You have installed Kirki. Activate it to take advantage of this theme's features in the customizer."
+msgstr ""
+
+#: inc/gutenblog-kirki-installer.php:60
+msgid "Activate Kirki Toolkit now"
+msgstr ""
+
+#: inc/gutenblog-kirki-installer.php:61
+msgid "Activate Now"
+msgstr ""
+
+#: inc/headers/header-1.php:178 inc/headers/header-2.php:152
+#: inc/headers/header-3.php:174 inc/headers/header-4.php:172
+msgid "Cart"
+msgstr ""
+
+#: inc/headers/header-1.php:180 inc/headers/header-2.php:154
+#: inc/headers/header-3.php:176 inc/headers/header-4.php:174
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/headers/header-1.php:200 inc/headers/header-2.php:201
+#: inc/headers/header-3.php:197 inc/headers/header-4.php:220
+msgid "Avatar"
+msgstr ""
+
+#: inc/headers/header-1.php:209 inc/headers/header-2.php:209
+#: inc/headers/header-3.php:206 inc/headers/header-4.php:228
+msgid "Logout"
+msgstr ""
+
+#: inc/headers/header-1.php:213 inc/headers/header-2.php:213
+#: inc/headers/header-3.php:210 inc/headers/header-4.php:232
+msgid "Register"
+msgstr ""
+
+#: inc/headers/header-1.php:214 inc/headers/header-2.php:214
+#: inc/headers/header-3.php:211 inc/headers/header-4.php:233
+msgid "Login"
+msgstr ""
+
+#: page.php:39 page.php:66 page.php:115 page.php:171 template-full.php:38
+#: template-full.php:63
+msgid "Page ID: "
+msgstr ""
+
+#: page.php:86 page.php:135 page.php:191
+msgid "Pages:"
+msgstr ""
+
+#: parts/feed.php:194 parts/feed.php:199 parts/feed.php:245
+msgid "Recents"
+msgstr ""
+
+#: parts/feed.php:207 parts/feed.php:212 parts/feed.php:248
+msgid "Latest"
+msgstr ""
+
+#: parts/feed.php:220 parts/feed.php:225 parts/feed.php:251
+msgid "Popular"
+msgstr ""
+
+#: parts/feed.php:233 parts/feed.php:238 parts/feed.php:254
+msgid "Trends"
+msgstr ""
+
+#: parts/feed.php:422
+msgid "No posts found."
+msgstr ""
+
+#: parts/feed.php:443
+msgid "Load more"
+msgstr ""
+
+#: parts/feed.php:454
+msgid "Loading more"
+msgstr ""
+
+#: parts/feed.php:466
+msgid "Next Posts"
+msgstr ""
+
+#: parts/feed.php:471
+msgid "Previous Posts"
+msgstr ""
+
+#: parts/single-default.php:194 parts/single-default.php:413
+#: parts/single-default.php:703 parts/single-full-thumb.php:109
+#: parts/single-full-thumb.php:211 parts/single-full-thumb.php:425
+#: parts/single-full-thumb.php:621 parts/single-full-thumb.php:720
+msgid "Post ID: "
+msgstr ""
+
+#: parts/single-default.php:285 parts/single-default.php:289
+#: parts/single-default.php:536 parts/single-default.php:540
+#: parts/single-default.php:819 parts/single-default.php:823
+#: parts/single-full-thumb.php:300 parts/single-full-thumb.php:304
+#: parts/single-full-thumb.php:548 parts/single-full-thumb.php:552
+#: parts/single-full-thumb.php:845 parts/single-full-thumb.php:849
+msgid "Previous article"
+msgstr ""
+
+#: parts/single-default.php:303 parts/single-default.php:307
+#: parts/single-default.php:554 parts/single-default.php:558
+#: parts/single-default.php:837 parts/single-default.php:841
+#: parts/single-full-thumb.php:318 parts/single-full-thumb.php:322
+#: parts/single-full-thumb.php:566 parts/single-full-thumb.php:570
+#: parts/single-full-thumb.php:863 parts/single-full-thumb.php:867
+msgid "Next article"
+msgstr ""
+
+#: parts/single-default.php:429 parts/single-full-thumb.php:441
+msgid "posted on"
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:117
+msgid "About %"
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:120
+msgid "Welcome to %"
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:124
+#, php-format
+msgid "Welcome! Thank you for choosing %s! "
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:125
+msgid "To fully take advantage of the best our theme can offer please make sure you visit our "
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:126
+msgid "welcome page"
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:127
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:217
+msgid "https://ThemesMonsters.com"
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:222
+msgid "About Theme"
+msgstr ""
+
+#: welcome-page/class.welcomepage.php:223
+msgid "View Demo"
+msgstr ""
+
+#: welcome-page/welcome-page.php:11 welcome-page/welcome-page.php:12
+msgid "Gutenblog Theme"
+msgstr ""
+
+#: welcome-page/welcome-page.php:14
+#, php-format
+msgid "Welcome to %s, version "
+msgstr ""
+
+#: welcome-page/welcome-page.php:20
+msgid "Getting Started"
+msgstr ""
+
+#: welcome-page/welcome-page.php:21
+msgid "Recommended Plugins"
+msgstr ""
+
+#: welcome-page/welcome-page.php:22
+msgid "Support"
+msgstr ""
+
+#: welcome-page/welcome-page.php:30
+msgid "Required Install"
+msgstr ""
+
+#: welcome-page/welcome-page.php:31
+msgid "To make your website settings more flexible, you need to install several plugins. One of the most important plugins is Kirki."
+msgstr ""
+
+#: welcome-page/welcome-page.php:37 welcome-page/welcome-page.php:39
+msgid "Documentation"
+msgstr ""
+
+#: welcome-page/welcome-page.php:38
+msgid "If you have any questions of theme customization, check our online documentation."
+msgstr ""
+
+#: welcome-page/welcome-page.php:44
+msgid "Start Customization "
+msgstr ""
+
+#: welcome-page/welcome-page.php:45
+msgid "Gutenblog theme is easy to customization! To customize the theme you can use the built-in WordPress Customizer."
+msgstr ""
+
+#: welcome-page/welcome-page.php:46
+msgid "Customize Now"
+msgstr ""
+
+#: welcome-page/welcome-page.php:60
+msgid "Kirki plugin"
+msgstr ""
+
+#: welcome-page/welcome-page.php:61
+msgid "Kirki helps us create rich experiences for the WordPress Customizer. Be sure to install and activate the Kirki plugin. It is required to make full use of the customization features of this theme."
+msgstr ""
+
+#: welcome-page/welcome-page.php:62
+msgid "Install Kirki"
+msgstr ""
+
+#: welcome-page/welcome-page.php:67
+msgid "AMP for WordPress"
+msgstr ""
+
+#: welcome-page/welcome-page.php:68
+msgid "he Official AMP Plugin for WordPress supports fully integrated AMP publishing for WordPress sites, with robust capabilities and granular publisher controls."
+msgstr ""
+
+#: welcome-page/welcome-page.php:83
+msgid "Theme Support"
+msgstr ""
+
+#: welcome-page/welcome-page.php:84
+msgid "Support for the free version of the theme only on the forum or the official WordPress page."
+msgstr ""
+
+#: welcome-page/welcome-page.php:85
+msgid "Forum"
+msgstr ""
+
+#: widgets/widgets.php:15
+msgid "Sidebar - Default"
+msgstr ""
+
+#: widgets/widgets.php:27
+msgid "Hidden widgets"
+msgstr ""
+
+#: widgets/widgets.php:29
+msgid "Add widgets here to appear in the hidden menu."
+msgstr ""
+
+#: widgets/widgets.php:39
+msgid "Footer Sidebar - Col 1"
+msgstr ""
+
+#: widgets/widgets.php:47
+msgid "Footer Sidebar - Col 2"
+msgstr ""
+
+#: widgets/widgets.php:55
+msgid "Footer Sidebar - Col 3"
+msgstr ""
+
+#: widgets/widgets.php:63
+msgid "Footer Sidebar - Col 4"
+msgstr ""
