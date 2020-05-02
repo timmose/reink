@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Новости &#8212; Onino</title>
+	<atom:link href="https://timmose.github.io/reink/category/apuci/feed/" rel="self" type="application/rss+xml" />
+	<link>https://timmose.github.io/reink</link>
+	<description>Onino. 2020</description>
+	<lastBuildDate>Sat, 02 May 2020 15:17:12 +0000</lastBuildDate>
+	<language>ru-RU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+
+<image>
+	<url>https://timmose.github.io/reink/wp-content/uploads/2020/05/cropped-icons8-deciduous-tree-96-32x32.png</url>
+	<title>Новости &#8212; Onino</title>
+	<link>https://timmose.github.io/reink</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Google уничтожила WhatsApp на Android</title>
+		<link>https://timmose.github.io/reink/2728/</link>
+		
+		<dc:creator><![CDATA[gigaon]]></dc:creator>
+		<pubDate>Sat, 02 May 2020 15:17:10 +0000</pubDate>
+				<category><![CDATA[Новости]]></category>
+		<guid isPermaLink="false">https://timmose.github.io/reink/?p=2728</guid>
+
+					<description><![CDATA[Наиболее крупным и известным сервисом для общения в мире является WhatsApp, а используют его на постоянной ежедневной основе более чем 2 млрд человек, проживающих в различных частях мира. Все они...]]></description>
+										<content:encoded><![CDATA[
+<p>Наиболее крупным и известным сервисом для общения в мире является WhatsApp, а используют его на постоянной ежедневной основе более чем 2 млрд человек, проживающих в различных частях мира. Все они с его помощью обмениваются текстовыми и голосовыми звонками, звонят по видеосвязи, а также совершают множество других действий, тем более что функциональные возможности данного сервиса все это в полной мере делать позволяют. Так, за счет этого ПО можно даже общаться в групповых чатах, делиться медиафайлами, вести публичные каналы и делать многое другое, хотя изначально подобных возможностей данный сервис предложить попросту нет, однако все изменилось за многие годы его присутствия на рынке, ведь его запустили еще в 2009 году.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>Впрочем, уже совсем скоро это программное обеспечение может утратить свою прежнюю привлекательность в полной мере, так как американская корпорация Google сумела создать и запустить его «убийцу», а называется программное обеспечение с аналогичными возможностями Android Messages. Очевидно, что недостаточно просто создать сервис для общения, и это отлично понимает «поисковой гигант», поэтому американская корпорация посчитала необходимым сделать нечто большее, чем просто очередной мессенджер. Для этого ей потребовалось создать протокол передачи данных под названием RCS (Rich Communication Services), а представляет он из себя полноценную замену SMS, будучи способным работать без подключения к интернету.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://timmose.github.io/reink/wp-content/uploads/2020/05/rcs-whatsapp-google-android-messages-9-1024x683.jpg" alt="" class="wp-image-2729" srcset="https://timmose.github.io/reink/wp-content/uploads/2020/05/rcs-whatsapp-google-android-messages-9-1024x683.jpg 1024w, https://timmose.github.io/reink/wp-content/uploads/2020/05/rcs-whatsapp-google-android-messages-9-300x200.jpg 300w, https://timmose.github.io/reink/wp-content/uploads/2020/05/rcs-whatsapp-google-android-messages-9-768x512.jpg 768w, https://timmose.github.io/reink/wp-content/uploads/2020/05/rcs-whatsapp-google-android-messages-9-1536x1024.jpg 1536w, https://timmose.github.io/reink/wp-content/uploads/2020/05/rcs-whatsapp-google-android-messages-9-1250x834.jpg 1250w, https://timmose.github.io/reink/wp-content/uploads/2020/05/rcs-whatsapp-google-android-messages-9-900x600.jpg 900w, https://timmose.github.io/reink/wp-content/uploads/2020/05/rcs-whatsapp-google-android-messages-9.jpg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Такой вид передачи данных, как SMS, был изначально создан и запущен еще в конце прошлого века, поэтому он очень сильно устарел. Впрочем, даже не смотря на это, он до сих пор широко используется по всему миру, то есть огромное множество людей им пользуются. Сообщения RCS имеют сразу несколько преимуществ, главными среди которых являются отсутствие лимита на число символов, полная бесплатность, мгновенная доставка и поддержка отчета о прочтении для отправителя. Такой протокол передачи данных был создан компанией Google именно на замену классическим сообщениям, причем многие сотовые операторы уже успели его внедрить в свою инфраструктуру, сделав это ради того, чтобы тем самым привлечь новых клиентов, которые будут использовать не только сообщения типа Rich Communication Services, но еще и, кроме того, другие виды связи.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://timmose.github.io/reink/wp-content/uploads/2020/05/rcs-whatsapp-google-android-messages-1024x683.jpg" alt="" class="wp-image-2730" srcset="https://timmose.github.io/reink/wp-content/uploads/2020/05/rcs-whatsapp-google-android-messages-1024x683.jpg 1024w, https://timmose.github.io/reink/wp-content/uploads/2020/05/rcs-whatsapp-google-android-messages-300x200.jpg 300w, https://timmose.github.io/reink/wp-content/uploads/2020/05/rcs-whatsapp-google-android-messages-768x512.jpg 768w, https://timmose.github.io/reink/wp-content/uploads/2020/05/rcs-whatsapp-google-android-messages-1536x1024.jpg 1536w, https://timmose.github.io/reink/wp-content/uploads/2020/05/rcs-whatsapp-google-android-messages-1250x834.jpg 1250w, https://timmose.github.io/reink/wp-content/uploads/2020/05/rcs-whatsapp-google-android-messages-900x600.jpg 900w, https://timmose.github.io/reink/wp-content/uploads/2020/05/rcs-whatsapp-google-android-messages.jpg 1800w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Запустив новый стандарт передачи данных, который также работает и через обычный интернет, компания Google заложила основу для того, чтобы уничтожить WhatsApp в будущем, ведь данный сервис не сможет никогда работать без подключения к интернету, а возможность использовать такой имеется далеко не везде. Чтобы уже сейчас начать использовать сообщения RCS необходимо установить на смартфон фирменное приложение под названием Android Messages, доступное в Google Play, после чего в настройках включить поддержку такого протокола. Если он поддерживается сотовым оператором и у собеседника, все сообщения будут доставляться именно через интернет за доли секунды. С каждым годом данный стандарт передачи информации будет становиться все более распространенным, а в ближайшие 5 – 7 лет он должен полностью заменить всему человечеству обычные SMS.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>Ранее стало известно о том, что российский благодетель Роскомнадзор начнет <a href="https://akket.com/raznoe/208266-roskomnadzor-nachnet-massovuyu-blokirovku-prilozhenij-v-google-play-i-app-store.html">массовую блокировку приложений</a> в Google Play и App Store.</p>
+
+
+
+<p>Подпишитесь на <a rel="noreferrer noopener" href="https://teleg.run/oninospace" target="_blank">Onino</a> в Telegram, чтобы всегда быть в курсе интересных новостей!</p>
+<div class="pageviews-wrapper"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1792 1792"><path d="M588.277,896v692.375H280.555V896H588.277z M1049.86,630.363v958.012h-307.72V630.363H1049.86z M1511.446,203.625v1384.75h-307.725V203.625H1511.446z"/></svg><span class="pageviews-placeholder" data-key="2728"></span></div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
